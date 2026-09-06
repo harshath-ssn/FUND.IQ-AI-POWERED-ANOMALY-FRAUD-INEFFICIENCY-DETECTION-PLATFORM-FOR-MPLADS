@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-09-06T16:58:27.245918+00:00",
+  "sourceRowCounts": {
+    "allocatedMPs": 543,
+    "recommended": 106468,
+    "sanctioned": 79082,
+    "completed": 34278,
+    "expenditure": 84006
+  },
+  "totalWorks": 79082,
+  "districtCoverage": {
+    "uniqueTrueDistricts": 751,
+    "resolvedFromIdaPct": 100.0,
+    "method": "regex ^([^(]+)\\( on the IDA column"
+  },
+  "agencyCoverage": {
+    "uniqueRealAgencies": 754,
+    "resolvedFromIdaPct": 100.0,
+    "fabricatedAgenciesRemoved": [
+      "AG001",
+      "AG002",
+      "AG003",
+      "AG004",
+      "AG005 (ABC Infrastructure Services)"
+    ]
+  },
+  "vendorCoverage": {
+    "worksWithMatchedVendorPct": 70.1
+  },
+  "paymentStatusCoverage": {
+    "worksWithPaymentStatusPct": 70.1
+  },
+  "photoEvidenceCoverage": {
+    "present": 24975,
+    "absent": 9303,
+    "notApplicable": 44804,
+    "completedWithoutPhotoEvidence": 1730
+  },
+  "geoCentroids": {
+    "method": "approximate_state_offset (deterministic, not survey-geocoded -- eSAKSHI has no real GPS field)",
+    "districtsCovered": 751
+  },
+  "workflowLayer": {
+    "note": "Verification tasks / decisions / clarification requests / follow-ups / action history are SEEDED PROTOTYPE DATA, not eSAKSHI records. Every record in that file carries source: 'prototype_workflow'.",
+    "seedScript": "generate_workflow_seed.py",
+    "outputFile": "public/data/workflow_seed.json"
+  }
+}
