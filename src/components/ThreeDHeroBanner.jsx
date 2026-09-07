@@ -10,12 +10,12 @@ export default function ThreeDHeroBanner({ activeRole, onOpenFlaggedModal }) {
     <div className="p-4 rounded-2xl bg-white border border-slate-200 shadow-xs flex items-center justify-between">
       <div>
         <span className="text-xs font-mono font-bold text-indigo-700 bg-indigo-50 px-2.5 py-0.5 rounded-full border border-indigo-200">
-          Governance Surveillance Node
+          FUND·IQ Governance Monitoring
         </span>
         <h2 className="text-base font-bold text-slate-900 mt-1">
-          {activeRole === 'district' && "District Implementation Authority Command Console"}
-          {activeRole === 'state' && "State Nodal Planning & Heatmap Matrix"}
-          {activeRole === 'ministry' && "MoSPI National Forensic Surveillance Grid"}
+          {activeRole === 'district' && "District Implementation Authority Workspace"}
+          {activeRole === 'state' && "State Nodal Planning & Risk Overview"}
+          {activeRole === 'ministry' && "MoSPI National Monitoring Grid"}
         </h2>
       </div>
 

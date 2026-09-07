@@ -1,0 +1,582 @@
+{
+  "brand": {
+    "name": "FUND·IQ",
+    "descriptor": "AI-Powered Anomaly, Fraud & Inefficiency Detection Platform for MPLADS",
+    "ministry": "Government of India • Ministry of Statistics & Programme Implementation (MoSPI)"
+  },
+  "nav": {
+    "mp": "Member of Parliament",
+    "district": "District Authority",
+    "state": "State Authority",
+    "ministry": "Ministry / MoSPI",
+    "logout": "Sign out",
+    "back": "Back",
+    "backTo": "Back to {{origin}}",
+    "changeRole": "Choose a different role",
+    "map": "Map",
+    "riskAlerts": "Risk & Alerts",
+    "workDossier": "Work Dossier"
+  },
+  "login": {
+    "gateway": "eSAKSHI Cryptographic Gateway",
+    "selectRole": "Select Administrative Role",
+    "subtitle": "Official Ministry of Statistics & Programme Implementation portal for MPLADS monitoring and governance.",
+    "coverage": "28 States + 8 Union Territories",
+    "roleMp": "Member of Parliament",
+    "roleMpDesc": "Constituency fund allocation, project tracking and AI audit assistant for your parliamentary seat.",
+    "roleDistrict": "District Authority",
+    "roleDistrictDesc": "Statutory implementation authority: work sanction, verification triage and district-level monitoring.",
+    "roleState": "State Authority",
+    "roleStateDesc": "Statewide risk overview, cross-district coordination and treasury allocation flow.",
+    "roleMinistry": "Ministry / MoSPI",
+    "roleMinistryDesc": "National monitoring, quota fulfillment tracking and policy compliance across India.",
+    "selectState": "1. Select State / UT",
+    "selectDistrict": "2. Select District",
+    "selectConstituency": "3. Select Constituency",
+    "search": "Search",
+    "continue": "Continue",
+    "enter": "Enter",
+    "allStates": "All States ({{count}})",
+    "accountsAvailable": "{{count}} accounts available",
+    "mpsAvailable": "{{count}} MPs available",
+    "authorizeLogin": "Authorize & Log In",
+    "muteSound": "Mute sound",
+    "unmuteSound": "Unmute sound"
+  },
+  "kpi": {
+    "totalWorks": "Total Works",
+    "sanctioned": "Sanctioned",
+    "expenditure": "Expenditure",
+    "unallocated": "Unallocated",
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "flagged": "Flagged",
+    "highRisk": "High Risk",
+    "districtsCovered": "Districts Covered",
+    "statesUts": "States & UTs"
+  },
+  "table": {
+    "workId": "Work ID & Name",
+    "category": "Category",
+    "sanctioned": "Sanctioned",
+    "progress": "Execution Stage",
+    "status": "Status",
+    "risk": "Risk",
+    "district": "District",
+    "state": "State",
+    "vendor": "Vendor",
+    "agency": "Agency",
+    "mp": "MP",
+    "inspect": "Inspect",
+    "actions": "Actions",
+    "noResults": "No records match this filter."
+  },
+  "filters": {
+    "all": "All",
+    "search": "Search",
+    "state": "State / UT",
+    "district": "District",
+    "category": "Category",
+    "status": "Status",
+    "riskLevel": "Risk Level",
+    "clear": "Clear filters"
+  },
+  "buttons": {
+    "view": "View",
+    "close": "Close",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "submit": "Submit",
+    "requestInfo": "Request Information",
+    "markFollowUp": "Mark for Follow-up",
+    "escalate": "Escalate for Review",
+    "sendToDistrict": "Send to District Review",
+    "requestStateReview": "Request State Review",
+    "print": "Print",
+    "export": "Export",
+    "retry": "Retry"
+  },
+  "status": {
+    "sanction": "Sanction",
+    "timeEstimation": "Time Estimation",
+    "vendorIdentification": "Vendor Identification",
+    "physicalInspection": "Physical Inspection",
+    "workPartiallyCompleted": "Work Partially Completed",
+    "workCompleted": "Work Completed",
+    "success": "Success",
+    "inProgress": "In Progress",
+    "open": "Open",
+    "cleared": "Cleared",
+    "escalated": "Escalated",
+    "inReview": "In Review"
+  },
+  "risk": {
+    "high": "High Risk",
+    "medium": "Medium Risk",
+    "low": "Low Risk",
+    "nominal": "Nominal",
+    "anomalyDetected": "Anomaly Detected",
+    "riskSignal": "Risk Signal",
+    "potentialIndicator": "Potential Fraud Indicator",
+    "requiresReview": "Requires Review",
+    "monitoringSignal": "Monitoring Signal"
+  },
+  "tooltip": {
+    "executionStage": "eSAKSHI records execution stage, not a completion percentage.",
+    "approxLocation": "Approximate district-level location — eSAKSHI export contains no work-level coordinates.",
+    "machineTranslation": "Machine translation — original record is in English."
+  },
+  "empty": {
+    "noData": "No data available.",
+    "noWorks": "No works recorded for this selection.",
+    "noAlerts": "No active alerts."
+  },
+  "loading": {
+    "default": "Loading…",
+    "works": "Loading works data…",
+    "map": "Loading map…"
+  },
+  "error": {
+    "generic": "Something went wrong. Please try again.",
+    "mapTiles": "Map tiles unavailable — showing offline basemap.",
+    "loadFailed": "Failed to load data."
+  },
+  "modal": {
+    "close": "Close",
+    "confirmAction": "Confirm this action?"
+  },
+  "methodology": {
+    "title": "Methodology",
+    "dataSource": "Data Source",
+    "limitations": "Known Limitations"
+  },
+  "workflow": {
+    "prototypeLabel": "Prototype workflow data",
+    "prototypeNote": "This workflow record is seeded prototype data for demonstration, not an eSAKSHI record.",
+    "inbox": "Inbox",
+    "history": "History",
+    "reason": "Reason",
+    "priority": "Priority",
+    "dueDate": "Due Date",
+    "from": "From",
+    "to": "To"
+  },
+  "map": {
+    "offlineBasemap": "Offline basemap — map tiles unavailable, showing bundled boundaries only.",
+    "approxDisclaimer": "Approximate district-level location — eSAKSHI export contains no work-level coordinates.",
+    "nationalView": "National View",
+    "stateView": "State View",
+    "districtView": "District View",
+    "districtBoundaryNotConstituency": "District boundary shown — constituency boundary not available.",
+    "districtBoundariesNotConstituency": "Showing {{count}} district boundaries this constituency spans — a single constituency boundary is not available."
+  },
+  "mp": {
+    "sidebar": {
+      "overview": "Overview",
+      "myWorks": "My Works",
+      "riskAlerts": "Risk & Alerts",
+      "fundUtilisation": "Fund Utilisation",
+      "compliance": "Compliance",
+      "constituencyMap": "Constituency Map",
+      "insights": "Insights",
+      "reports": "Reports"
+    },
+    "header": {
+      "constituency": "Constituency",
+      "house": "18th Lok Sabha",
+      "nodalDistricts": "Nodal District(s)",
+      "workspaceLabel": "MP Workspace"
+    },
+    "kpi": {
+      "fundPosition": "Fund Position",
+      "workPortfolio": "Work Portfolio",
+      "riskMonitor": "Risk Monitor",
+      "scStMonitor": "SC/ST Allocation Monitor",
+      "entitlement": "Entitlement",
+      "recommended": "Recommended",
+      "balance": "Balance",
+      "notAvailable": "Not available in source data",
+      "proxyIndicator": "Proxy Indicator",
+      "viewMethodology": "View Methodology",
+      "totalWorks": "Total Works",
+      "monitoredWorks": "Monitored Works",
+      "highRiskSignals": "High-Risk Signals",
+      "requiresReview": "Requires Review"
+    },
+    "attention": {
+      "title": "My Attention Required",
+      "subtitle": "Platform-derived Monitoring Priority — not an official MPLADS formula",
+      "formula": "Monitoring Priority = Risk × Financial Exposure × Urgency",
+      "empty": "No works currently require elevated attention.",
+      "reasonLabel": "Reason for attention",
+      "financialExposure": "Financial Exposure",
+      "urgency": "Urgency",
+      "stage": "Stage"
+    },
+    "works": {
+      "title": "My Works",
+      "searchPlaceholder": "Search work ID, description, agency, vendor…",
+      "filterStage": "Lifecycle Stage",
+      "filterPayment": "Payment Status",
+      "filterEvidence": "Evidence",
+      "filterAttention": "Attention",
+      "attentionOnly": "Needs Attention",
+      "notAvailable": "Not available in source data",
+      "paymentSuccess": "Success",
+      "paymentInProgress": "In-Progress",
+      "paymentNoDisbursement": "No Disbursement Recorded",
+      "evidencePresent": "Present",
+      "evidenceMissing": "Missing",
+      "evidenceNotApplicable": "Not applicable"
+    },
+    "risk": {
+      "title": "Risk & Alerts",
+      "distribution": "Risk Distribution",
+      "alertsList": "Alerts",
+      "explainWhy": "Why this work was surfaced",
+      "contribution": "Relative contribution to signal",
+      "contributionNote": "Contributions are normalized shares of the rule-based signal, not additive score points.",
+      "noAlerts": "No works currently carry an active risk signal."
+    },
+    "fund": {
+      "title": "Fund Utilisation",
+      "chain": "Entitlement → Recommended → Sanctioned → Expenditure → Balance",
+      "paymentReleased": "Payment Released",
+      "paymentNote": "Payment released is not the same as final expenditure/utilisation — a released payment can still relate to work in an early execution stage.",
+      "byCategory": "By Category",
+      "byDistrict": "By District",
+      "byStage": "By Lifecycle Stage",
+      "byAgency": "By Implementing Agency",
+      "byVendor": "By Vendor"
+    },
+    "compliance": {
+      "title": "Compliance",
+      "status": "Status",
+      "measuredValue": "Measured Value",
+      "thresholdMethodology": "Threshold / Methodology",
+      "dataSource": "Data Source",
+      "statusMet": "Reference Met",
+      "statusBelow": "Below Reference",
+      "statusReview": "Requires Review",
+      "statusNominal": "Nominal",
+      "statusInfo": "Informational",
+      "statusUnavailable": "Not Available"
+    },
+    "map": {
+      "title": "Constituency Map",
+      "subtitle": "Works recorded for this constituency, plotted at approximate district-level location."
+    },
+    "insights": {
+      "title": "Insights",
+      "riskDistribution": "Risk Distribution",
+      "stageDistribution": "Lifecycle Stage Distribution",
+      "categoryConcentration": "Category Concentration",
+      "agencyConcentration": "Implementing Agency Concentration",
+      "vendorConcentration": "Vendor Concentration",
+      "evidenceGaps": "Evidence Gaps",
+      "paymentStageSignals": "Payment vs Execution-Stage Signals"
+    },
+    "reports": {
+      "title": "Reports",
+      "scope": "Scope",
+      "dataCoverage": "Data Coverage",
+      "dataProvenance": "Data Provenance",
+      "workPortfolioReport": "Work Portfolio Report",
+      "riskReviewSummary": "Risk Review Summary",
+      "monitoringReport": "Monitoring Report",
+      "notCertificate": "This is a monitoring report, not an official government audit certificate.",
+      "download": "Print / Save Report"
+    },
+    "dossier": {
+      "aiReviewBrief": "AI Review Brief",
+      "generate": "Generate AI Review Brief",
+      "generating": "Generating…",
+      "finding": "Finding",
+      "supportingSignals": "Supporting Signals",
+      "suggestedFollowup": "Suggested Follow-up",
+      "evidence": "Evidence",
+      "disclaimer": "Disclaimer",
+      "disclaimerText": "This brief is generated from real recorded signals to support human review. It does not confirm fraud, guilt, or any legal determination — verify against source records before acting.",
+      "regenerate": "Regenerate"
+    },
+    "actions": {
+      "requestInfo": "Request Information",
+      "requestInfoDesc": "Send a request for information about this work to the District Authority.",
+      "reasonLabel": "Reason for request",
+      "reasonPlaceholder": "Describe what information or clarification is needed…",
+      "priorityAlerts": "Priority Alerts",
+      "sent": "Request sent to District Authority",
+      "noResponseYet": "No workflow response has been received yet.",
+      "response": "District Response"
+    },
+    "recommend": {
+      "title": "Recommend New Work",
+      "button": "Recommend New Work",
+      "pickLocationPrompt": "Click a location on the map to recommend a new work there.",
+      "cancelPicking": "Cancel",
+      "noLocation": "No location selected.",
+      "category": "Category",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe the work being recommended…",
+      "estimatedCost": "Estimated Cost",
+      "locality": "Locality / Landmark",
+      "localityPlaceholder": "e.g. near Government School, Ward 4",
+      "duplicateWarning": "{{count}} similar works already recorded in this area — review before recommending.",
+      "draftNote": "Draft recommendation (prototype) — not submitted to eSAKSHI.",
+      "submit": "Submit Recommendation",
+      "submittedTitle": "Recommendation Recorded",
+      "submittedNote": "This draft recommendation has been sent to the District Authority inbox as prototype workflow data — it is not a submission to eSAKSHI."
+    }
+  },
+  "district": {
+    "header": {
+      "title": "District Authority",
+      "workspaceLabel": "District Workspace"
+    },
+    "sidebar": {
+      "actionCenter": "Action Center",
+      "worksRegister": "Works Register",
+      "agencyIntel": "Agency & Risk Intelligence",
+      "map": "District Map"
+    },
+    "kpi": {
+      "totalWorks": "District Works",
+      "highRisk": "High-Risk Signals",
+      "stalled": "Stalled & Overdue",
+      "clean": "No Active Signal",
+      "stalledNote": "Progress stalled beyond 90 days",
+      "cleanNote": "No open risk signal on file",
+      "totalNote": "Active works in this district"
+    },
+    "actionCenter": {
+      "title": "Action Center",
+      "subtitle": "Application workflow items awaiting District Authority attention. These are workflow processing categories, not statutory deadlines.",
+      "decisionDue": "Decision Due",
+      "decisionDueDesc": "Verification finding recorded — a decision has not yet been recorded.",
+      "verificationDue": "Verification Due",
+      "verificationDueDesc": "Flagged works with no verification assigned yet.",
+      "clarificationPending": "Clarification Pending",
+      "clarificationPendingDesc": "Clarification requested — awaiting response.",
+      "followUpDue": "Follow-up Due",
+      "followUpDueDesc": "Open follow-up reminders on record.",
+      "mpRequests": "MP Requests Inbox",
+      "respond": "Respond",
+      "responseLabel": "Response",
+      "empty": "No items currently require District Authority attention.",
+      "openDossier": "Open Dossier",
+      "priority": "Priority",
+      "due": "Due",
+      "noDueDate": "No due date set"
+    },
+    "dossier": {
+      "title": "District Work Dossier",
+      "identity": "Work Identity",
+      "financials": "Financial Summary",
+      "sanctioned": "Sanctioned Amount",
+      "paymentReleased": "Payment Released",
+      "executionStage": "Execution Stage",
+      "evidence": "Evidence & Documentation",
+      "photoEvidence": "Photographic Evidence",
+      "present": "Present in source record",
+      "absent": "Evidence Gap — not available in source record",
+      "notApplicable": "Not applicable",
+      "location": "Location",
+      "gpsAvailable": "Approximate coordinates on file",
+      "gpsUnavailable": "No coordinates on file",
+      "paymentStatus": "Payment Status",
+      "caseHistory": "Case & Workflow History",
+      "noHistory": "No workflow actions recorded yet for this work.",
+      "actions": "Verification & Decision Actions",
+      "assignVerification": "Assign Verification",
+      "recordFinding": "Record Verification Finding",
+      "requestClarification": "Request Clarification",
+      "recordDecision": "Record Decision",
+      "addFollowUp": "Add Follow-up",
+      "escalate": "Escalate for Review",
+      "reasonRequired": "A note is required to complete this action.",
+      "notePlaceholder": "Describe the finding, clarification needed, decision, or follow-up…",
+      "dueDateLabel": "Follow-up due date (optional)",
+      "confirm": "Confirm Action",
+      "cancel": "Cancel",
+      "openFullRecord": "Open Full Record",
+      "status": "Case Status",
+      "noCaseYet": "No verification case opened yet for this work.",
+      "escalatedNote": "This also raises an Escalate for Review item visible to the State Authority."
+    },
+    "caseStatus": {
+      "verificationInProgress": "Verification In Progress",
+      "decisionDue": "Decision Due",
+      "clarificationPending": "Clarification Pending",
+      "decisionRecorded": "Decision Recorded",
+      "escalated": "Escalated for Review"
+    },
+    "agencyIntel": {
+      "title": "Agency & Risk Intelligence",
+      "subtitle": "Concentration and relationship signals computed from real vendor and agency records for this district. Statistical patterns only — not an allegation of misconduct.",
+      "vendorConcentration": "Vendor Concentration",
+      "agencyConcentration": "Agency Concentration",
+      "highConcentration": "High Concentration — Requires Review",
+      "moderateConcentration": "Moderate Concentration",
+      "distributed": "Evenly Distributed",
+      "singleEntity": "Sole Entity on Record",
+      "worksCount": "Works",
+      "sanctionedTotal": "Sanctioned Total",
+      "shareOfDistrict": "Share of District Outlay",
+      "noVendorData": "No vendor records available for this district.",
+      "noAgencyData": "No agency records available for this district."
+    }
+  },
+  "state": {
+    "directory": {
+      "title": "State / UT Directory",
+      "subtitle": "Search and select a State / UT to open its monitoring workspace.",
+      "searchPlaceholder": "Search State / UT name...",
+      "districtsMonitored": "Districts Monitored",
+      "projects": "Projects",
+      "openWorkspace": "Open State Workspace"
+    },
+    "header": {
+      "title": "State Authority",
+      "workspaceLabel": "State Workspace"
+    },
+    "tabs": {
+      "overview": "State Overview",
+      "districts": "District & Constituency Monitoring",
+      "financial": "Financial & Work Performance",
+      "risk": "Risk, Compliance & Escalation"
+    },
+    "overview": {
+      "title": "State Overview",
+      "fundPosition": "Fund Position",
+      "workPortfolio": "Work Portfolio",
+      "riskSignals": "Risk Signals",
+      "districtsCovered": "Districts Covered",
+      "evidencePosition": "Evidence Position",
+      "evidenceComplete": "Photographic evidence on file",
+      "mapTitle": "State District Map"
+    },
+    "districts": {
+      "title": "District & Constituency Monitoring",
+      "subtitle": "Drill down from state to district to constituency to individual work.",
+      "disparityTitle": "Inter-District Risk Disparity",
+      "disparitySubtitle": "Average risk score by district in this state.",
+      "singleDistrictTitle": "District Risk Profile",
+      "singleDistrictNote": "This state/UT has a single monitored district on record — inter-district disparity does not apply.",
+      "districtTable": "Districts",
+      "constituencyTable": "Constituencies in {{district}}",
+      "worksTable": "Works in {{district}}",
+      "openAsDistrictAuthority": "Open as District Authority",
+      "backToDistricts": "Back to Districts"
+    },
+    "financial": {
+      "title": "Financial & Work Performance",
+      "sanctioned": "Sanctioned",
+      "expenditure": "Expenditure / Utilisation",
+      "paymentReleased": "Payment Released",
+      "balance": "Balance",
+      "byStage": "By Execution Stage",
+      "byCategory": "By Category",
+      "evidenceAvailability": "Evidence Availability",
+      "paymentNote": "Payment released is not the same as work completion — a released payment can still relate to work in an early execution stage."
+    },
+    "risk": {
+      "title": "Risk, Compliance & Escalation",
+      "subtitle": "Anomaly signals, evidence gaps, and concentration signals across this state, plus review items escalated from districts.",
+      "anomalySignals": "Anomaly Signals",
+      "evidenceGaps": "Evidence Gaps",
+      "escalationsTitle": "Escalated for Review (from Districts)",
+      "escalationsEmpty": "No district escalations on record for this state.",
+      "concentrationTitle": "Agency Concentration Signals"
+    }
+  },
+  "ministry": {
+    "header": {
+      "title": "Ministry / MoSPI",
+      "workspaceLabel": "National Workspace"
+    },
+    "tabs": {
+      "national": "National Overview",
+      "mp": "MP & Constituency Monitoring",
+      "financial": "Financial & Work Performance",
+      "risk": "Risk, Compliance & Escalation"
+    },
+    "coverage": {
+      "title": "Current Dataset Coverage",
+      "note": "This reflects the current FUND·IQ dataset, not a claim of complete national MPLADS coverage.",
+      "statesUts": "States + UTs",
+      "districts": "Districts",
+      "constituencies": "Constituencies",
+      "mps": "MPs",
+      "works": "Works in Current Dataset"
+    },
+    "national": {
+      "title": "National Overview",
+      "mapTitle": "National Monitoring Map",
+      "selectedRegion": "Selected Region",
+      "selectRegionPrompt": "Select a state on the map to view its summary.",
+      "sanctionedTotal": "Sanctioned (National)",
+      "expenditureTotal": "Expenditure (National)",
+      "flaggedTotal": "Flagged Works (National)",
+      "monitoredInScope": "Monitored Works in Current Scope",
+      "openStateWorkspace": "Open State Workspace"
+    },
+    "mpMonitoring": {
+      "title": "MP & Constituency Monitoring",
+      "subtitle": "Drill down: State → District → Constituency → Work.",
+      "filterState": "State / UT",
+      "filterDistrict": "District",
+      "filterMp": "MP / Constituency",
+      "filterAgency": "Implementing Agency",
+      "allStates": "All States (Pan-India)",
+      "allDistricts": "All Districts in Scope",
+      "allMps": "All MPs & Constituencies",
+      "allAgencies": "All Implementing Agencies",
+      "resetFilters": "Reset All Filters",
+      "scope": "Current Scope",
+      "worksInScope": "Works in Scope"
+    },
+    "financial": {
+      "title": "Financial & Work Performance",
+      "sanctioned": "Sanctioned",
+      "expenditure": "Expenditure",
+      "byStage": "By Execution Stage",
+      "byCategory": "By Category",
+      "note": "National totals reflect the complete real dataset (all real sanctioned works); scoped totals reflect the current filter."
+    },
+    "risk": {
+      "title": "Risk, Compliance & Escalation",
+      "subtitle": "National monitoring language only — signals requiring review, never a fraud confirmation.",
+      "agencyIntelTitle": "Agency & Relationship Intelligence",
+      "agencyIntelSubtitle": "Vendor and agency concentration and relationship signals computed from real records. Statistical patterns only — not an allegation of misconduct.",
+      "priorityMonitoring": "Priority Monitoring Signals",
+      "priorityWorks": "National Priority Works",
+      "benfordTitle": "Benford's Law Leading-Digit Distribution",
+      "benfordSubtitle": "National distribution across all real sanctioned works — a statistical property of the whole ledger, constant regardless of scope filters.",
+      "benfordNoDeviation": "No significant deviation",
+      "benfordSpike": "Digit '{{digit}}' spike: +{{delta}}pt",
+      "digitLabel": "Digit",
+      "observedLabel": "Observed",
+      "expectedLabel": "Expected",
+      "diagnosticLabel": "Diagnostic"
+    }
+  },
+  "assistant": {
+    "title": "FUND·IQ Assistant",
+    "subtitle": "Advisory — grounded in current screen data",
+    "placeholder": "Ask about what's on screen...",
+    "send": "Send",
+    "thinking": "Thinking…",
+    "disclaimer": "AI-generated — for review, not a determination.",
+    "notAvailable": "That information is not available in the current dataset.",
+    "quickAttention": "What needs my attention?",
+    "quickWhyFlagged": "Why is this work flagged?",
+    "quickFundPosition": "How is the fund position tracking?",
+    "errors": {
+      "noKey": "Assistant unavailable — no model connection.",
+      "rateLimited": "Assistant is temporarily rate-limited. Try again shortly.",
+      "invalidKey": "Assistant unavailable — the model key is invalid.",
+      "offline": "Assistant unavailable — you appear to be offline.",
+      "generic": "Assistant unavailable — the model did not respond."
+    }
+  }
+}

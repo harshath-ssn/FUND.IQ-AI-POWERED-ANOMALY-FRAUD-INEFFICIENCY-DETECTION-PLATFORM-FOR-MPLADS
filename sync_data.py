@@ -263,17 +263,121 @@ STATE_CENTROIDS = {
 INDIA_FALLBACK_CENTROID = [22.3511, 78.6677]
 
 # ==============================================================================
-# District centroids (A0.2): eSAKSHI carries no real coordinate for any work
-# (ground truth 1.2) -- these are NOT survey-geocoded lat/lngs. Each of the
-# 751 real districts (parsed from IDA) gets one deterministic anchor point,
-# offset from its state's centroid by a stable hash of the district name.
-# This replaces the old per-WORK random jitter (which re-rolled for every
-# work and routinely scattered a district's works across a whole state, or
-# a hardcoded 6-constituency allowlist that only covered Tamil Nadu) with one
-# fixed point per real district, so every work in the same district now
-# clusters together. Precision claim: "same district clusters together", NOT
-# "accurate absolute lat/lng".
+# District centroids (A0.2, fixed): eSAKSHI carries no real coordinate for
+# any work (ground truth 1.2) -- these are NOT survey-geocoded lat/lngs.
+#
+# The previous version anchored each district to its STATE's centroid plus a
+# hash-of-the-name offset of up to +-0.9 degrees (~100km) in an arbitrary
+# direction. That offset had no relationship to the district's real shape or
+# position, so for many districts -- especially in long/narrow states like
+# Tamil Nadu, or districts near a state's edge -- the resulting point landed
+# well outside the district, sometimes in a neighbouring state entirely
+# (e.g. a Madurai, Tamil Nadu work's anchor point landing near the
+# Karnataka border). That's not "approximate", it's wrong.
+#
+# This version computes each district's REAL centroid from the actual
+# Census-derived boundary polygons already bundled for the map layer
+# (public/geo/india-districts.geojson) -- the same file FundMap.jsx draws
+# district outlines from -- via the standard polygon-centroid formula (area
+# centroid of the exterior ring; area-weighted across sub-polygons for
+# MultiPolygon features). That guarantees the anchor point is actually
+# inside its own district's real shape. Only for the district names with no
+# matching polygon (name mismatches between eSAKSHI's true-district parsing
+# and the Census district names -- a known ~17% gap, see geoData.js) does
+# it fall back to the old state-offset approximation, which is still an
+# approximation but at least no worse than before for that residual case.
 # ==============================================================================
+def _polygon_centroid(rings_coords):
+    """Area centroid of a polygon's exterior ring. `rings_coords` is a
+    GeoJSON Polygon's `coordinates` (list of linear rings, each a list of
+    [lng, lat] pairs); only the exterior ring (index 0) is used -- holes are
+    a negligible correction for this purpose."""
+    ring = rings_coords[0]
+    if len(ring) < 3:
+        return None
+    area2 = 0.0
+    cx = 0.0
+    cy = 0.0
+    for i in range(len(ring) - 1):
+        x0, y0 = ring[i]
+        x1, y1 = ring[i + 1]
+        cross = x0 * y1 - x1 * y0
+        area2 += cross
+        cx += (x0 + x1) * cross
+        cy += (y0 + y1) * cross
+    if abs(area2) < 1e-12:
+        # Degenerate polygon (all points collinear/duplicated) -- fall back
+        # to a plain vertex average rather than dividing by ~zero area.
+        xs = [p[0] for p in ring]
+        ys = [p[1] for p in ring]
+        return sum(xs) / len(xs), sum(ys) / len(ys), 0.0
+    area = area2 / 2.0
+    cx /= (3.0 * area2)
+    cy /= (3.0 * area2)
+    return cx, cy, abs(area)
+
+
+def _feature_centroid(geometry):
+    """Real centroid of a GeoJSON Polygon or MultiPolygon feature, in
+    (lat, lng) order. MultiPolygon parts are combined by area-weighted
+    average so the largest part (e.g. the mainland piece of a district with
+    a small offshore exclave) dominates."""
+    gtype = geometry.get("type")
+    coords = geometry.get("coordinates")
+    polygons = coords if gtype == "MultiPolygon" else [coords]
+    total_area = 0.0
+    weighted_lng = 0.0
+    weighted_lat = 0.0
+    for poly in polygons:
+        result = _polygon_centroid(poly)
+        if result is None:
+            continue
+        px, py, area = result
+        weight = area if area > 0 else 1e-9
+        total_area += weight
+        weighted_lng += px * weight
+        weighted_lat += py * weight
+    if total_area == 0:
+        return None
+    return weighted_lat / total_area, weighted_lng / total_area
+
+
+def _normalize_geo_name(name):
+    """Mirrors src/components/map/geoData.js's normalizeName() so district
+    names line up the same way here as they do when FundMap matches a
+    district to its boundary polygon for drawing."""
+    s = str(name or "").strip().lower()
+    s = re.sub(r"\s+", " ", s)
+    s = re.sub(r"^(state of|district of)\s+", "", s)
+    s = re.sub(r"\band\b", "&", s)
+    return s
+
+
+def _load_real_district_centroids():
+    geojson_path = os.path.join("public", "geo", "india-districts.geojson")
+    if not os.path.exists(geojson_path):
+        print(f"[!] {geojson_path} not found -- district centroids will use the state-offset fallback for every district.")
+        return {}
+    with open(geojson_path, "r", encoding="utf-8") as f:
+        geo = json.load(f)
+    real = {}
+    for feature in geo.get("features", []):
+        props = feature.get("properties", {})
+        district_name = props.get("district")
+        state_name = props.get("state")
+        geometry = feature.get("geometry")
+        if not district_name or not geometry:
+            continue
+        centroid = _feature_centroid(geometry)
+        if centroid is None:
+            continue
+        lat, lng = centroid
+        real[_normalize_geo_name(district_name)] = {
+            "lat": round(lat, 6), "lng": round(lng, 6), "state": str(state_name or "").strip(),
+        }
+    return real
+
+
 def _district_state_offset(district_name, state_name):
     base = STATE_CENTROIDS.get(str(state_name).strip().upper(), INDIA_FALLBACK_CENTROID)
     h = zlib.crc32(str(district_name).strip().upper().encode("utf-8"))
@@ -289,13 +393,28 @@ _district_state_lookup = (
     .to_dict()
 )
 
+_REAL_DISTRICT_CENTROIDS = _load_real_district_centroids()
+_real_centroid_hits = 0
+
 DISTRICT_CENTROIDS = {}
 for _dist, _state in _district_state_lookup.items():
-    _lat, _lng = _district_state_offset(_dist, _state)
-    DISTRICT_CENTROIDS[_dist] = {
-        "lat": _lat, "lng": _lng, "state": str(_state).strip(),
-        "source": "approximate_state_offset",
-    }
+    _real = _REAL_DISTRICT_CENTROIDS.get(_normalize_geo_name(_dist))
+    if _real is not None:
+        DISTRICT_CENTROIDS[_dist] = {
+            "lat": _real["lat"], "lng": _real["lng"], "state": str(_state).strip(),
+            "source": "real_boundary_centroid",
+        }
+        _real_centroid_hits += 1
+    else:
+        _lat, _lng = _district_state_offset(_dist, _state)
+        DISTRICT_CENTROIDS[_dist] = {
+            "lat": _lat, "lng": _lng, "state": str(_state).strip(),
+            "source": "approximate_state_offset",
+        }
+
+print(f"[*] District centroids: {_real_centroid_hits}/{len(_district_state_lookup)} resolved from real "
+      f"Census boundary polygons; {len(_district_state_lookup) - _real_centroid_hits} fell back to the "
+      f"state-offset approximation (no matching boundary name).")
 
 _geo_dir = os.path.join("src", "data", "geo")
 os.makedirs(_geo_dir, exist_ok=True)

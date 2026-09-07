@@ -1,9 +1,9 @@
 {
   "Adilabad": {
-    "lat": 18.4571,
-    "lng": 79.0877,
+    "lat": 19.523188,
+    "lng": 78.567608,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Agar-Malwa": {
     "lat": 22.5648,
@@ -12,10 +12,10 @@
     "source": "approximate_state_offset"
   },
   "Agra": {
-    "lat": 26.97,
-    "lng": 80.3612,
+    "lat": 27.034405,
+    "lng": 78.071211,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ahilyanagar": {
     "lat": 20.0728,
@@ -24,52 +24,52 @@
     "source": "approximate_state_offset"
   },
   "Ahmedabad": {
-    "lat": 22.4585,
-    "lng": 71.2158,
+    "lat": 22.775633,
+    "lng": 72.243442,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Aizawl": {
-    "lat": 23.34,
-    "lng": 92.4138,
+    "lat": 23.817934,
+    "lng": 92.890437,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ajmer": {
-    "lat": 26.7052,
-    "lng": 74.0226,
+    "lat": 26.228462,
+    "lng": 74.760003,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Akola": {
-    "lat": 18.8749,
-    "lng": 76.5896,
+    "lat": 20.750055,
+    "lng": 77.05895,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Alappuzha": {
-    "lat": 10.9045,
-    "lng": 76.6185,
+    "lat": 9.414837,
+    "lng": 76.454835,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Aligarh": {
-    "lat": 27.4542,
-    "lng": 80.6843,
+    "lat": 27.926595,
+    "lng": 78.071652,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Alipurduar": {
-    "lat": 22.526,
-    "lng": 86.9892,
+    "lat": 26.629904,
+    "lng": 89.457722,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Alirajpur": {
-    "lat": 23.7933,
-    "lng": 78.0098,
+    "lat": 22.315111,
+    "lng": 74.363099,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Alluri Sitharama Raju": {
     "lat": 15.7635,
@@ -78,58 +78,58 @@
     "source": "approximate_state_offset"
   },
   "Almora": {
-    "lat": 30.5915,
-    "lng": 78.2309,
+    "lat": 29.691574,
+    "lng": 79.503124,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Alwar": {
-    "lat": 26.2606,
-    "lng": 73.9218,
+    "lat": 27.590427,
+    "lng": 76.602395,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ambala": {
-    "lat": 28.76,
-    "lng": 76.8452,
+    "lat": 30.333159,
+    "lng": 76.934031,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ambedkar Nagar": {
-    "lat": 27.0024,
-    "lng": 81.8147,
+    "lat": 26.422564,
+    "lng": 82.666458,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Amethi": {
-    "lat": 27.3507,
-    "lng": 80.4125,
+    "lat": 26.290392,
+    "lng": 81.634886,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Amravati": {
-    "lat": 20.5606,
-    "lng": 75.2369,
+    "lat": 21.184307,
+    "lng": 77.56962,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Amreli": {
-    "lat": 22.076,
-    "lng": 70.5921,
+    "lat": 21.425948,
+    "lng": 71.25369,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Amritsar": {
-    "lat": 31.1894,
-    "lng": 74.7445,
+    "lat": 31.702452,
+    "lng": 74.897364,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Amroha": {
-    "lat": 25.9728,
-    "lng": 80.5205,
+    "lat": 28.807109,
+    "lng": 78.333188,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Anakapalli": {
     "lat": 16.7535,
@@ -138,10 +138,10 @@
     "source": "approximate_state_offset"
   },
   "Anand": {
-    "lat": 23.057,
-    "lng": 70.4616,
+    "lat": 22.464763,
+    "lng": 72.786549,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ananthapuramu": {
     "lat": 16.1937,
@@ -150,16 +150,16 @@
     "source": "approximate_state_offset"
   },
   "Anantnag": {
-    "lat": 34.4973,
-    "lng": 77.2287,
+    "lat": 33.827789,
+    "lng": 75.321758,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Anjaw": {
-    "lat": 27.3603,
-    "lng": 94.501,
+    "lat": 28.070058,
+    "lng": 96.818342,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Annamayya": {
     "lat": 16.6797,
@@ -180,22 +180,22 @@
     "source": "approximate_state_offset"
   },
   "Anuppur": {
-    "lat": 22.1733,
-    "lng": 78.1727,
+    "lat": 23.057672,
+    "lng": 81.687222,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Araria": {
-    "lat": 24.5534,
-    "lng": 85.2123,
+    "lat": 26.198256,
+    "lng": 87.364136,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ariyalur": {
-    "lat": 11.2486,
-    "lng": 79.1861,
+    "lat": 11.16375,
+    "lng": 79.244271,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Arvalli": {
     "lat": 21.5792,
@@ -204,64 +204,64 @@
     "source": "approximate_state_offset"
   },
   "Arwal": {
-    "lat": 24.692,
-    "lng": 84.6489,
+    "lat": 25.166421,
+    "lng": 84.686747,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ashoknagar": {
-    "lat": 22.9563,
-    "lng": 79.1213,
+    "lat": 24.605681,
+    "lng": 77.877488,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Auraiya": {
-    "lat": 27.6891,
-    "lng": 80.1866,
+    "lat": 26.658167,
+    "lng": 79.478624,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Aurangabad": {
-    "lat": 25.5002,
-    "lng": 85.8954,
+    "lat": 24.794591,
+    "lng": 84.40831,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ayodhya": {
-    "lat": 26.8656,
-    "lng": 80.804,
+    "lat": 26.655067,
+    "lng": 82.001257,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Azamgarh": {
-    "lat": 26.2104,
-    "lng": 81.0461,
+    "lat": 26.04568,
+    "lng": 83.063199,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bagalkote": {
-    "lat": 15.5585,
-    "lng": 75.1658,
+    "lat": 16.214496,
+    "lng": 75.628992,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bageshwar": {
-    "lat": 29.3144,
-    "lng": 79.778,
+    "lat": 29.984869,
+    "lng": 79.862306,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Baghpat": {
-    "lat": 26.34,
-    "lng": 80.417,
+    "lat": 29.068319,
+    "lng": 77.310063,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bahraich": {
-    "lat": 26.0016,
-    "lng": 81.6941,
+    "lat": 27.702551,
+    "lng": 81.490393,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bajali": {
     "lat": 26.782,
@@ -270,22 +270,22 @@
     "source": "approximate_state_offset"
   },
   "Baksa": {
-    "lat": 27.0682,
-    "lng": 92.6415,
+    "lat": 26.667491,
+    "lng": 91.355932,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Balaghat": {
-    "lat": 23.8725,
-    "lng": 78.6605,
+    "lat": 21.882787,
+    "lng": 80.361612,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Balangir": {
-    "lat": 21.5394,
-    "lng": 85.031,
+    "lat": 20.581516,
+    "lng": 83.170872,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Baleshwar": {
     "lat": 20.5395,
@@ -294,22 +294,22 @@
     "source": "approximate_state_offset"
   },
   "Ballari": {
-    "lat": 15.4388,
-    "lng": 75.0452,
+    "lat": 15.105293,
+    "lng": 76.526251,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ballia": {
-    "lat": 26.9745,
-    "lng": 81.0452,
+    "lat": 25.872409,
+    "lng": 84.103496,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Balod": {
-    "lat": 22.1742,
-    "lng": 81.8265,
+    "lat": 20.739888,
+    "lng": 81.183197,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Balodabazar-Bhatapara": {
     "lat": 20.5794,
@@ -324,10 +324,10 @@
     "source": "approximate_state_offset"
   },
   "Balrampur": {
-    "lat": 27.7296,
-    "lng": 81.8219,
+    "lat": 27.48811,
+    "lng": 82.372381,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Balrampur-Ramanujganj": {
     "lat": 20.5218,
@@ -342,34 +342,34 @@
     "source": "approximate_state_offset"
   },
   "Banda": {
-    "lat": 26.2644,
-    "lng": 81.245,
+    "lat": 25.472035,
+    "lng": 80.549792,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bandipora": {
-    "lat": 34.4523,
-    "lng": 76.7184,
+    "lat": 34.491065,
+    "lng": 74.872011,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Banka": {
-    "lat": 25.6919,
-    "lng": 85.9638,
+    "lat": 24.850179,
+    "lng": 86.841523,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bankura": {
-    "lat": 22.6844,
-    "lng": 88.5588,
+    "lat": 23.138813,
+    "lng": 87.135053,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Banswara": {
-    "lat": 27.0733,
-    "lng": 73.3422,
+    "lat": 23.478041,
+    "lng": 74.360007,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bapatla": {
     "lat": 15.6384,
@@ -390,64 +390,64 @@
     "source": "approximate_state_offset"
   },
   "Baramulla": {
-    "lat": 34.1094,
-    "lng": 76.7877,
+    "lat": 34.162371,
+    "lng": 74.306813,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Baran": {
-    "lat": 27.3775,
-    "lng": 74.451,
+    "lat": 25.001193,
+    "lng": 76.751533,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bareilly": {
-    "lat": 26.8926,
-    "lng": 80.48,
+    "lat": 28.461264,
+    "lng": 79.429726,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Barmer": {
-    "lat": 27.1885,
-    "lng": 73.4979,
+    "lat": 25.733079,
+    "lng": 71.475809,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Barnala": {
-    "lat": 30.5729,
-    "lng": 75.7021,
+    "lat": 30.38978,
+    "lng": 75.50035,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Barpeta": {
-    "lat": 25.4905,
-    "lng": 92.25,
+    "lat": 26.337852,
+    "lng": 90.999294,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Barwani": {
-    "lat": 22.6773,
-    "lng": 77.8073,
+    "lat": 21.787151,
+    "lng": 75.019098,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bastar": {
-    "lat": 20.6964,
-    "lng": 81.5367,
+    "lat": 19.084303,
+    "lng": 81.872661,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Basti": {
-    "lat": 26.1924,
-    "lng": 81.3863,
+    "lat": 26.818929,
+    "lng": 82.623802,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bathinda": {
-    "lat": 30.9446,
-    "lng": 76.0198,
+    "lat": 30.191841,
+    "lng": 75.040725,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Beawar": {
     "lat": 26.437,
@@ -456,22 +456,22 @@
     "source": "approximate_state_offset"
   },
   "Beed": {
-    "lat": 19.1179,
-    "lng": 76.4789,
+    "lat": 18.947004,
+    "lng": 75.831965,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Begusarai": {
-    "lat": 25.3697,
-    "lng": 85.8585,
+    "lat": 25.49768,
+    "lng": 86.128512,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Belagavi": {
-    "lat": 16.0121,
-    "lng": 76.1702,
+    "lat": 16.119751,
+    "lng": 74.821966,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bemetara": {
     "lat": 21.9321,
@@ -480,10 +480,10 @@
     "source": "approximate_state_offset"
   },
   "Bengaluru Rural": {
-    "lat": 14.8025,
-    "lng": 76.2845,
+    "lat": 13.229349,
+    "lng": 77.571081,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bengaluru South": {
     "lat": 14.9348,
@@ -492,214 +492,214 @@
     "source": "approximate_state_offset"
   },
   "Bengaluru Urban": {
-    "lat": 15.2174,
-    "lng": 74.8175,
+    "lat": 12.954931,
+    "lng": 77.596567,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Betul": {
-    "lat": 22.2003,
-    "lng": 78.4796,
+    "lat": 21.88361,
+    "lng": 77.873722,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhadohi": {
-    "lat": 26.6163,
-    "lng": 81.5267,
+    "lat": 25.350731,
+    "lng": 82.45856,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhadradri Kothagudem": {
-    "lat": 17.837,
-    "lng": 79.2164,
+    "lat": 17.69804,
+    "lng": 80.710296,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhadrak": {
-    "lat": 21.8067,
-    "lng": 84.9635,
+    "lat": 20.984866,
+    "lng": 86.631085,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhagalpur": {
-    "lat": 24.7532,
-    "lng": 85.9971,
+    "lat": 25.268914,
+    "lng": 87.091057,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhandara": {
-    "lat": 19.351,
-    "lng": 75.7733,
+    "lat": 21.121419,
+    "lng": 79.758326,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bharatpur": {
-    "lat": 26.5009,
-    "lng": 74.5536,
+    "lat": 27.255663,
+    "lng": 77.276481,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bharuch": {
-    "lat": 22.5827,
-    "lng": 71.5767,
+    "lat": 21.781681,
+    "lng": 72.9376,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhavnagar": {
-    "lat": 21.77,
-    "lng": 71.8611,
+    "lat": 21.588056,
+    "lng": 71.911276,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhilwara": {
-    "lat": 26.2165,
-    "lng": 73.6932,
+    "lat": 25.482215,
+    "lng": 74.729853,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhind": {
-    "lat": 23.6097,
-    "lng": 78.2465,
+    "lat": 26.416524,
+    "lng": 78.725892,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhiwani": {
-    "lat": 29.732,
-    "lng": 76.3115,
+    "lat": 28.787905,
+    "lng": 75.894579,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhojpur": {
-    "lat": 25.2968,
-    "lng": 85.3068,
+    "lat": 25.472599,
+    "lng": 84.541933,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bhopal": {
-    "lat": 23.7078,
-    "lng": 79.1474,
+    "lat": 23.468999,
+    "lng": 77.390901,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bidar": {
-    "lat": 14.5784,
-    "lng": 75.4844,
+    "lat": 17.954489,
+    "lng": 77.221874,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bijapur": {
-    "lat": 22.0518,
-    "lng": 82.4781,
+    "lat": 18.841512,
+    "lng": 80.781259,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bijnor": {
-    "lat": 27.6432,
-    "lng": 81.5816,
+    "lat": 29.386929,
+    "lng": 78.390218,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bikaner": {
-    "lat": 26.8366,
-    "lng": 74.9415,
+    "lat": 28.177285,
+    "lng": 73.175166,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bilaspur": {
-    "lat": 20.9331,
-    "lng": 81.2199,
+    "lat": 31.375465,
+    "lng": 76.658541,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Birbhum": {
-    "lat": 23.6591,
-    "lng": 87.0846,
+    "lat": 23.960106,
+    "lng": 87.660889,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bishnupur": {
-    "lat": 24.976,
-    "lng": 94.0827,
+    "lat": 24.515042,
+    "lng": 93.787905,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Biswanath": {
-    "lat": 25.6732,
-    "lng": 92.1006,
+    "lat": 26.826665,
+    "lng": 93.379356,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bokaro": {
-    "lat": 23.4446,
-    "lng": 84.4852,
+    "lat": 23.697527,
+    "lng": 85.996715,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bongaigaon": {
-    "lat": 26.8936,
-    "lng": 92.2302,
+    "lat": 26.359479,
+    "lng": 90.616953,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Botad": {
-    "lat": 22.7105,
-    "lng": 70.6614,
+    "lat": 22.113979,
+    "lng": 71.692409,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Boudh": {
-    "lat": 21.3684,
-    "lng": 84.7988,
+    "lat": 20.645686,
+    "lng": 84.170969,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Budaun": {
-    "lat": 26.9583,
-    "lng": 81.803,
+    "lat": 28.074532,
+    "lng": 79.043814,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Budgam": {
-    "lat": 33.8943,
-    "lng": 76.8867,
+    "lat": 33.924316,
+    "lng": 74.640621,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bulandshahr": {
-    "lat": 27.6846,
-    "lng": 81.8291,
+    "lat": 28.364114,
+    "lng": 78.011016,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Buldhana": {
-    "lat": 20.1754,
-    "lng": 75.9605,
+    "lat": 20.517443,
+    "lng": 76.408259,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Bundi": {
-    "lat": 26.3209,
-    "lng": 74.8515,
+    "lat": 25.488706,
+    "lng": 75.792925,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Burhanpur": {
-    "lat": 23.2362,
-    "lng": 79.0646,
+    "lat": 21.37052,
+    "lng": 76.373619,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Buxar": {
-    "lat": 24.5705,
-    "lng": 84.4392,
+    "lat": 25.487655,
+    "lng": 84.100047,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Cachar": {
-    "lat": 26.0485,
-    "lng": 92.7603,
+    "lat": 24.807626,
+    "lng": 92.852231,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Central": {
     "lat": 28.273,
@@ -714,88 +714,88 @@
     "source": "approximate_state_offset"
   },
   "Chamba": {
-    "lat": 31.5179,
-    "lng": 77.8097,
+    "lat": 32.681184,
+    "lng": 76.348767,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chamoli": {
-    "lat": 30.3206,
-    "lng": 79.5053,
+    "lat": 30.494312,
+    "lng": 79.576111,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Champawat": {
-    "lat": 29.7752,
-    "lng": 78.3803,
+    "lat": 29.277982,
+    "lng": 80.076662,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Champhai": {
-    "lat": 23.3031,
-    "lng": 93.2166,
+    "lat": 23.536946,
+    "lng": 93.262167,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chandauli": {
-    "lat": 26.6397,
-    "lng": 81.2063,
+    "lat": 25.134079,
+    "lng": 83.258185,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chandigarh": {
-    "lat": 30.0421,
-    "lng": 76.1341,
+    "lat": 30.724632,
+    "lng": 76.779352,
     "state": "Chandigarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chandrapur": {
-    "lat": 19.2952,
-    "lng": 76.6067,
+    "lat": 20.114659,
+    "lng": 79.439805,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Changlang": {
-    "lat": 27.525,
-    "lng": 95.2075,
+    "lat": 27.363646,
+    "lng": 96.343233,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Charaideo": {
-    "lat": 26.9764,
-    "lng": 92.5425,
+    "lat": 27.06207,
+    "lng": 95.050795,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Charkhi Dadri": {
-    "lat": 29.6294,
-    "lng": 76.145,
+    "lat": 28.578312,
+    "lng": 76.156477,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chatra": {
-    "lat": 22.7795,
-    "lng": 85.1395,
+    "lat": 24.181212,
+    "lng": 84.877165,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chengalpattu": {
-    "lat": 11.6509,
-    "lng": 79.2347,
+    "lat": 12.574727,
+    "lng": 79.998365,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chennai": {
-    "lat": 11.1541,
-    "lng": 77.8622,
+    "lat": 13.008174,
+    "lng": 80.230478,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chhatarpur": {
-    "lat": 23.3325,
-    "lng": 78.1043,
+    "lat": 24.80468,
+    "lng": 79.667926,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chhatrapati Sambhajinagar": {
     "lat": 18.9262,
@@ -804,10 +804,10 @@
     "source": "approximate_state_offset"
   },
   "Chhindwara": {
-    "lat": 23.6007,
-    "lng": 78.8612,
+    "lat": 22.125143,
+    "lng": 78.852972,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chhotaudepur": {
     "lat": 21.9464,
@@ -816,46 +816,46 @@
     "source": "approximate_state_offset"
   },
   "Chikkaballapura": {
-    "lat": 15.7745,
-    "lng": 76.5626,
+    "lat": 13.585245,
+    "lng": 77.842032,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chikkamagaluru": {
-    "lat": 14.6306,
-    "lng": 75.0326,
+    "lat": 13.453646,
+    "lng": 75.691524,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chirang": {
-    "lat": 26.3275,
-    "lng": 93.5721,
+    "lat": 26.654903,
+    "lng": 90.600689,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chitradurga": {
-    "lat": 15.6431,
-    "lng": 75.2504,
+    "lat": 14.163043,
+    "lng": 76.513166,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chitrakoot": {
-    "lat": 26.8782,
-    "lng": 81.4754,
+    "lat": 25.21405,
+    "lng": 81.0825,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chittoor": {
-    "lat": 16.3773,
-    "lng": 79.7526,
+    "lat": 13.466507,
+    "lng": 79.007306,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chittorgarh": {
-    "lat": 27.7429,
-    "lng": 74.9811,
+    "lat": 24.82411,
+    "lng": 74.78331,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Chumoukedima": {
     "lat": 25.5509,
@@ -864,64 +864,64 @@
     "source": "approximate_state_offset"
   },
   "Churachandpur": {
-    "lat": 24.5377,
-    "lng": 93.5967,
+    "lat": 24.286199,
+    "lng": 93.605301,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Churu": {
-    "lat": 27.8374,
-    "lng": 73.6482,
+    "lat": 28.346405,
+    "lng": 74.698222,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Coimbatore": {
-    "lat": 11.9434,
-    "lng": 78.5552,
+    "lat": 10.878043,
+    "lng": 76.975664,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Cooch Behar": {
-    "lat": 23.5961,
-    "lng": 88.2627,
+    "lat": 26.293415,
+    "lng": 89.365027,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Cuddalore": {
-    "lat": 11.9029,
-    "lng": 78.5858,
+    "lat": 11.540078,
+    "lng": 79.451266,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dahod": {
-    "lat": 22.373,
-    "lng": 71.8305,
+    "lat": 22.861938,
+    "lng": 74.11095,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dakshin Bastar Dantewada": {
-    "lat": 21.4416,
-    "lng": 81.9939,
+    "lat": 18.863603,
+    "lng": 81.379198,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dakshin Dinajpur": {
-    "lat": 22.2182,
-    "lng": 88.6488,
+    "lat": 25.367771,
+    "lng": 88.569504,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dakshina Kannada": {
-    "lat": 14.6972,
-    "lng": 75.4106,
+    "lat": 12.848552,
+    "lng": 75.249187,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Damoh": {
-    "lat": 23.0445,
-    "lng": 79.1537,
+    "lat": 23.8127,
+    "lng": 79.528698,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dangs": {
     "lat": 22.5341,
@@ -930,40 +930,40 @@
     "source": "approximate_state_offset"
   },
   "Darbhanga": {
-    "lat": 25.3922,
-    "lng": 85.8639,
+    "lat": 26.084254,
+    "lng": 86.051511,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Darjeeling": {
-    "lat": 23.57,
-    "lng": 88.287,
+    "lat": 26.844059,
+    "lng": 88.262375,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Darrang": {
-    "lat": 26.7406,
-    "lng": 93.0177,
+    "lat": 26.445082,
+    "lng": 92.028188,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Datia": {
-    "lat": 23.004,
-    "lng": 78.3095,
+    "lat": 25.808778,
+    "lng": 78.598444,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dausa": {
-    "lat": 26.3164,
-    "lng": 74.7426,
+    "lat": 26.869879,
+    "lng": 76.521557,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Davanagere": {
-    "lat": 14.4236,
-    "lng": 76.3889,
+    "lat": 14.403249,
+    "lng": 75.950918,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Debagada": {
     "lat": 21.1983,
@@ -978,58 +978,58 @@
     "source": "approximate_state_offset"
   },
   "Dehradun": {
-    "lat": 29.2172,
-    "lng": 79.211,
+    "lat": 30.460552,
+    "lng": 77.971685,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Deoghar": {
-    "lat": 23.0585,
-    "lng": 85.9846,
+    "lat": 24.33252,
+    "lng": 86.734025,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Deoria": {
-    "lat": 26.061,
-    "lng": 81.8048,
+    "lat": 26.417139,
+    "lng": 83.837967,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Devbhumi Dwarka": {
-    "lat": 21.5792,
-    "lng": 70.8927,
+    "lat": 22.119142,
+    "lng": 69.462435,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dewas": {
-    "lat": 23.0994,
-    "lng": 79.3544,
+    "lat": 22.743847,
+    "lng": 76.460936,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhalai": {
-    "lat": 24.0173,
-    "lng": 91.1044,
+    "lat": 23.84151,
+    "lng": 91.923472,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhamtari": {
-    "lat": 21.7044,
-    "lng": 82.3296,
+    "lat": 20.554823,
+    "lng": 81.808937,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhanbad": {
-    "lat": 23.9927,
-    "lng": 85.2106,
+    "lat": 23.830173,
+    "lng": 86.47616,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhar": {
-    "lat": 23.5296,
-    "lng": 78.9557,
+    "lat": 22.500328,
+    "lng": 75.102891,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dharashiv": {
     "lat": 19.0207,
@@ -1038,46 +1038,46 @@
     "source": "approximate_state_offset"
   },
   "Dharmapuri": {
-    "lat": 10.4413,
-    "lng": 78.6155,
+    "lat": 12.093767,
+    "lng": 78.197693,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dharwad": {
-    "lat": 14.933,
-    "lng": 76.4267,
+    "lat": 15.387633,
+    "lng": 75.156049,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhemaji": {
-    "lat": 26.7406,
-    "lng": 92.2716,
+    "lat": 27.594624,
+    "lng": 94.782922,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhenkanal": {
-    "lat": 20.7519,
-    "lng": 85.4513,
+    "lat": 20.828594,
+    "lng": 85.523257,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dholpur": {
-    "lat": 26.7295,
-    "lng": 73.4916,
+    "lat": 26.681589,
+    "lng": 77.698878,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhubri": {
-    "lat": 25.9027,
-    "lng": 93.2859,
+    "lat": 26.173488,
+    "lng": 90.036336,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dhule": {
-    "lat": 20.071,
-    "lng": 74.9975,
+    "lat": 21.109182,
+    "lng": 74.598398,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dibang Valley": {
     "lat": 29.0325,
@@ -1086,10 +1086,10 @@
     "source": "approximate_state_offset"
   },
   "Dibrugarh": {
-    "lat": 26.7721,
-    "lng": 93.4965,
+    "lat": 27.364978,
+    "lng": 95.052111,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Didwana-Kuchaman": {
     "lat": 26.7106,
@@ -1098,34 +1098,34 @@
     "source": "approximate_state_offset"
   },
   "Dima Hasao": {
-    "lat": 26.3617,
-    "lng": 93.4263,
+    "lat": 25.372703,
+    "lng": 93.03255,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dimapur": {
-    "lat": 26.2457,
-    "lng": 94.1898,
+    "lat": 25.772119,
+    "lng": 93.78703,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dindigul": {
-    "lat": 10.7968,
-    "lng": 79.0115,
+    "lat": 10.386871,
+    "lng": 77.818912,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dindori": {
-    "lat": 23.8563,
-    "lng": 77.8856,
+    "lat": 22.893792,
+    "lng": 81.045288,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Doda": {
-    "lat": 34.6602,
-    "lng": 76.5843,
+    "lat": 33.088996,
+    "lng": 75.705364,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dr. B.R. Ambedkar Konaseema": {
     "lat": 15.6078,
@@ -1140,22 +1140,22 @@
     "source": "approximate_state_offset"
   },
   "Dumka": {
-    "lat": 24.4949,
-    "lng": 85.4905,
+    "lat": 24.320756,
+    "lng": 87.262615,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Dungarpur": {
-    "lat": 26.8708,
-    "lng": 74.7669,
+    "lat": 23.732138,
+    "lng": 73.84932,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Durg": {
-    "lat": 21.0339,
-    "lng": 81.1056,
+    "lat": 21.217791,
+    "lng": 81.385278,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East": {
     "lat": 29.3431,
@@ -1164,40 +1164,40 @@
     "source": "approximate_state_offset"
   },
   "East Garo Hills": {
-    "lat": 24.7119,
-    "lng": 90.7245,
+    "lat": 25.625872,
+    "lng": 90.639792,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Godavari": {
-    "lat": 15.759,
-    "lng": 80.4366,
+    "lat": 17.271523,
+    "lng": 81.894456,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Jaintia Hills": {
-    "lat": 25.8072,
-    "lng": 91.4589,
+    "lat": 25.259899,
+    "lng": 92.464005,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Kameng": {
-    "lat": 27.5421,
-    "lng": 94.3705,
+    "lat": 27.586249,
+    "lng": 92.919113,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Khasi Hills": {
-    "lat": 26.2473,
-    "lng": 92.0772,
+    "lat": 25.384487,
+    "lng": 91.79725,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Siang": {
-    "lat": 28.7598,
-    "lng": 94.3066,
+    "lat": 28.037775,
+    "lng": 95.353254,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "East Singhbum": {
     "lat": 24.0161,
@@ -1218,112 +1218,112 @@
     "source": "approximate_state_offset"
   },
   "Ernakulam": {
-    "lat": 10.4878,
-    "lng": 76.1181,
+    "lat": 10.080581,
+    "lng": 76.545098,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Erode": {
-    "lat": 11.7373,
-    "lng": 78.5615,
+    "lat": 11.52431,
+    "lng": 77.412835,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Etah": {
-    "lat": 26.9916,
-    "lng": 81.2459,
+    "lat": 27.51831,
+    "lng": 78.724522,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Etawah": {
-    "lat": 27.6855,
-    "lng": 80.5817,
+    "lat": 26.770453,
+    "lng": 79.092398,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Faridabad": {
-    "lat": 29.9228,
-    "lng": 75.1991,
+    "lat": 28.354822,
+    "lng": 77.341262,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Faridkot": {
-    "lat": 31.4621,
-    "lng": 75.0694,
+    "lat": 30.616909,
+    "lng": 74.775302,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Farrukhabad": {
-    "lat": 26.0988,
-    "lng": 80.6897,
+    "lat": 27.427495,
+    "lng": 79.4571,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Fatehabad": {
-    "lat": 28.7996,
-    "lng": 76.2665,
+    "lat": 29.575398,
+    "lng": 75.577055,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Fatehgarh Sahib": {
-    "lat": 31.0598,
-    "lng": 74.4988,
+    "lat": 30.644538,
+    "lng": 76.377913,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Fatehpur": {
-    "lat": 26.3328,
-    "lng": 80.7131,
+    "lat": 25.878562,
+    "lng": 80.808175,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Fazilka": {
-    "lat": 31.2884,
-    "lng": 75.5896,
+    "lat": 30.279285,
+    "lng": 74.1652,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ferozepur": {
-    "lat": 31.1984,
-    "lng": 74.7895,
+    "lat": 30.914933,
+    "lng": 74.699058,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Firozabad": {
-    "lat": 26.8566,
-    "lng": 81.5456,
+    "lat": 27.187106,
+    "lng": 78.52856,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gadag": {
-    "lat": 15.9932,
-    "lng": 76.2269,
+    "lat": 15.433612,
+    "lng": 75.664873,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gadchiroli": {
-    "lat": 18.9883,
-    "lng": 75.6914,
+    "lat": 19.788395,
+    "lng": 80.246184,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ganderbal": {
-    "lat": 33.033,
-    "lng": 76.6824,
+    "lat": 34.280651,
+    "lng": 75.028499,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gandhinagar": {
-    "lat": 21.7754,
-    "lng": 71.6856,
+    "lat": 23.258617,
+    "lng": 72.695983,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ganganagar": {
-    "lat": 26.6305,
-    "lng": 73.4502,
+    "lat": 29.39517,
+    "lng": 73.571595,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gangapurcity": {
     "lat": 27.4819,
@@ -1338,16 +1338,16 @@
     "source": "approximate_state_offset"
   },
   "Ganjam": {
-    "lat": 21.246,
-    "lng": 85.3658,
+    "lat": 19.621367,
+    "lng": 84.675566,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Garhwa": {
-    "lat": 24.2888,
-    "lng": 85.045,
+    "lat": 24.103297,
+    "lng": 83.695663,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gariyaband": {
     "lat": 21.6018,
@@ -1362,124 +1362,124 @@
     "source": "approximate_state_offset"
   },
   "Gautam Buddha Nagar": {
-    "lat": 26.9574,
-    "lng": 80.3387,
+    "lat": 28.386407,
+    "lng": 77.55414,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gaya": {
-    "lat": 24.2573,
-    "lng": 85.7082,
+    "lat": 24.702584,
+    "lng": 84.937592,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ghaziabad": {
-    "lat": 27.1338,
-    "lng": 80.6402,
+    "lat": 28.76672,
+    "lng": 77.464717,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ghazipur": {
-    "lat": 26.8953,
-    "lng": 80.3063,
+    "lat": 25.625553,
+    "lng": 83.556217,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gir Somnath": {
-    "lat": 21.8303,
-    "lng": 70.863,
+    "lat": 20.965505,
+    "lng": 70.771401,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Giridih": {
-    "lat": 24.1241,
-    "lng": 85.9513,
+    "lat": 24.291912,
+    "lng": 86.108466,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Goalpara": {
-    "lat": 27.0079,
-    "lng": 93.321,
+    "lat": 26.053447,
+    "lng": 90.58609,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Godda": {
-    "lat": 23.4914,
-    "lng": 84.6112,
+    "lat": 24.853456,
+    "lng": 87.31198,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Golaghat": {
-    "lat": 26.5156,
-    "lng": 92.7459,
+    "lat": 26.472885,
+    "lng": 93.834908,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gomati": {
-    "lat": 23.0804,
-    "lng": 92.0989,
+    "lat": 23.532274,
+    "lng": 91.620286,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gonda": {
-    "lat": 27.3309,
-    "lng": 80.498,
+    "lat": 27.081988,
+    "lng": 82.023741,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gondia": {
-    "lat": 20.4274,
-    "lng": 75.8849,
+    "lat": 21.157826,
+    "lng": 80.21339,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gopalganj": {
-    "lat": 24.2114,
-    "lng": 85.2132,
+    "lat": 26.444827,
+    "lng": 84.372394,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gorakhpur": {
-    "lat": 26.9592,
-    "lng": 80.156,
+    "lat": 26.658012,
+    "lng": 83.356214,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gumla": {
-    "lat": 23.5094,
-    "lng": 85.4032,
+    "lat": 23.102515,
+    "lng": 84.525706,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Guna": {
-    "lat": 22.8204,
-    "lng": 77.819,
+    "lat": 24.551666,
+    "lng": 77.195314,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Guntur": {
-    "lat": 15.6528,
-    "lng": 79.3314,
+    "lat": 16.293265,
+    "lng": 80.08283,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gurdaspur": {
-    "lat": 30.7889,
-    "lng": 75.0433,
+    "lat": 31.910334,
+    "lng": 75.290399,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gurugram": {
-    "lat": 29.8085,
-    "lng": 75.6185,
+    "lat": 28.369224,
+    "lng": 76.943158,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gwalior": {
-    "lat": 23.7069,
-    "lng": 78.8522,
+    "lat": 26.040341,
+    "lng": 78.135127,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Gyalshing": {
     "lat": 27.4043,
@@ -1488,10 +1488,10 @@
     "source": "approximate_state_offset"
   },
   "Hamirpur": {
-    "lat": 30.6422,
-    "lng": 77.1554,
+    "lat": 31.668652,
+    "lng": 76.528354,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hanumakonda": {
     "lat": 17.3861,
@@ -1500,136 +1500,136 @@
     "source": "approximate_state_offset"
   },
   "Hanumangarh": {
-    "lat": 26.1238,
-    "lng": 74.7066,
+    "lat": 29.265046,
+    "lng": 74.569911,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hapur": {
-    "lat": 26.8863,
-    "lng": 80.2928,
+    "lat": 28.718413,
+    "lng": 77.887788,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Harda": {
-    "lat": 22.2642,
-    "lng": 78.3221,
+    "lat": 22.231574,
+    "lng": 77.121258,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hardoi": {
-    "lat": 25.9899,
-    "lng": 80.0732,
+    "lat": 27.332605,
+    "lng": 80.157977,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Haridwar": {
-    "lat": 29.7959,
-    "lng": 78.7277,
+    "lat": 29.882149,
+    "lng": 77.993827,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hassan": {
-    "lat": 15.2498,
-    "lng": 76.0496,
+    "lat": 12.995894,
+    "lng": 76.107086,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hathras": {
-    "lat": 26.7567,
-    "lng": 80.5448,
+    "lat": 27.574923,
+    "lng": 78.159449,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Haveri": {
-    "lat": 16.1849,
-    "lng": 75.6239,
+    "lat": 14.73304,
+    "lng": 75.424029,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hazaribagh": {
-    "lat": 23.5742,
-    "lng": 85.6975,
+    "lat": 24.056948,
+    "lng": 85.414828,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hingoli": {
-    "lat": 19.9963,
-    "lng": 75.9434,
+    "lat": 19.623554,
+    "lng": 77.092565,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hisar": {
-    "lat": 29.8643,
-    "lng": 75.9587,
+    "lat": 29.21918,
+    "lng": 75.824428,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hnahthial": {
-    "lat": 22.4904,
-    "lng": 92.8449,
+    "lat": 22.945253,
+    "lng": 92.988948,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hojai": {
-    "lat": 25.6678,
-    "lng": 93.5352,
+    "lat": 25.976669,
+    "lng": 92.978283,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hooghly": {
-    "lat": 23.1704,
-    "lng": 87.9045,
+    "lat": 22.876676,
+    "lng": 88.070729,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hoshiarpur": {
-    "lat": 30.3497,
-    "lng": 76.0333,
+    "lat": 31.622997,
+    "lng": 75.85759,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Howrah": {
-    "lat": 22.9013,
-    "lng": 87.1539,
+    "lat": 22.518935,
+    "lng": 88.068825,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Hyderabad": {
-    "lat": 18.9629,
-    "lng": 79.3631,
+    "lat": 17.392425,
+    "lng": 78.462222,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Idukki": {
-    "lat": 10.171,
-    "lng": 76.4664,
+    "lat": 9.847859,
+    "lng": 77.054886,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Imphal East": {
-    "lat": 25.3369,
-    "lng": 94.0332,
+    "lat": 24.82227,
+    "lng": 94.015497,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Imphal West": {
-    "lat": 25.3297,
-    "lng": 93.1773,
+    "lat": 24.754465,
+    "lng": 93.862963,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Indore": {
-    "lat": 22.5639,
-    "lng": 78.701,
+    "lat": 22.713412,
+    "lng": 75.780889,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jabalpur": {
-    "lat": 22.1481,
-    "lng": 78.5174,
+    "lat": 23.237154,
+    "lng": 79.972038,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jagatsinghapur": {
     "lat": 20.2218,
@@ -1644,10 +1644,10 @@
     "source": "approximate_state_offset"
   },
   "Jaipur": {
-    "lat": 27.4468,
-    "lng": 73.5537,
+    "lat": 26.972529,
+    "lng": 75.712747,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jaipur Gramin": {
     "lat": 27.0337,
@@ -1656,76 +1656,76 @@
     "source": "approximate_state_offset"
   },
   "Jaisalmer": {
-    "lat": 27.8374,
-    "lng": 74.5068,
+    "lat": 27.076222,
+    "lng": 70.903841,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jajpur": {
-    "lat": 20.3253,
-    "lng": 85.7429,
+    "lat": 20.844597,
+    "lng": 86.154904,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalandhar": {
-    "lat": 31.9949,
-    "lng": 75.5329,
+    "lat": 31.211968,
+    "lng": 75.575541,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalaun": {
-    "lat": 27.3183,
-    "lng": 81.5357,
+    "lat": 26.081194,
+    "lng": 79.386848,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalgaon": {
-    "lat": 19.1017,
-    "lng": 75.5348,
+    "lat": 20.936185,
+    "lng": 75.491211,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalna": {
-    "lat": 19.4455,
-    "lng": 75.6014,
+    "lat": 19.811292,
+    "lng": 75.9789,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalore": {
-    "lat": 26.4127,
-    "lng": 73.5069,
+    "lat": 25.101937,
+    "lng": 72.211879,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jalpaiguri": {
-    "lat": 23.111,
-    "lng": 88.4571,
+    "lat": 26.684243,
+    "lng": 88.763838,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jammu": {
-    "lat": 34.2435,
-    "lng": 75.9156,
+    "lat": 32.796466,
+    "lng": 74.750198,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jamnagar": {
-    "lat": 21.5837,
-    "lng": 71.691,
+    "lat": 22.332301,
+    "lng": 70.208983,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jamtara": {
-    "lat": 24.4616,
-    "lng": 85.0036,
+    "lat": 23.982646,
+    "lng": 86.90371,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jamui": {
-    "lat": 24.2924,
-    "lng": 86.1618,
+    "lat": 24.782059,
+    "lng": 86.295061,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jangoan": {
     "lat": 18.9566,
@@ -1740,82 +1740,82 @@
     "source": "approximate_state_offset"
   },
   "Jashpur": {
-    "lat": 21.8907,
-    "lng": 82.2495,
+    "lat": 22.797875,
+    "lng": 83.857654,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jaunpur": {
-    "lat": 27.5847,
-    "lng": 80.8949,
+    "lat": 25.752075,
+    "lng": 82.577804,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jayashankar Bhupalapally": {
-    "lat": 18.7235,
-    "lng": 79.3019,
+    "lat": 18.506638,
+    "lng": 79.92758,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jehanabad": {
-    "lat": 24.8387,
-    "lng": 86.0034,
+    "lat": 25.156391,
+    "lng": 85.018586,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhabua": {
-    "lat": 22.995,
-    "lng": 78.2861,
+    "lat": 22.889177,
+    "lng": 74.668426,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhajjar": {
-    "lat": 28.2614,
-    "lng": 76.2035,
+    "lat": 28.605954,
+    "lng": 76.652742,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhalawar": {
-    "lat": 27.8248,
-    "lng": 74.2791,
+    "lat": 24.334682,
+    "lng": 76.190044,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhansi": {
-    "lat": 26.7243,
-    "lng": 80.4557,
+    "lat": 25.503171,
+    "lng": 78.945479,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhargram": {
-    "lat": 22.5791,
-    "lng": 88.5588,
+    "lat": 22.357343,
+    "lng": 86.952887,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jharsuguda": {
-    "lat": 20.9508,
-    "lng": 85.8644,
+    "lat": 21.809009,
+    "lng": 83.96979,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jhunjhunu": {
-    "lat": 26.6296,
-    "lng": 74.9847,
+    "lat": 28.090495,
+    "lng": 75.552039,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jind": {
-    "lat": 29.9228,
-    "lng": 75.2846,
+    "lat": 29.435153,
+    "lng": 76.315226,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jodhpur": {
-    "lat": 26.788,
-    "lng": 74.9838,
+    "lat": 26.744682,
+    "lng": 72.786564,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jodhpur Gramin": {
     "lat": 27.8221,
@@ -1824,28 +1824,28 @@
     "source": "approximate_state_offset"
   },
   "Jogulamba Gadwal": {
-    "lat": 18.5489,
-    "lng": 79.4594,
+    "lat": 16.067748,
+    "lng": 77.785133,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Jorhat": {
-    "lat": 26.8927,
-    "lng": 93.2958,
+    "lat": 26.720078,
+    "lng": 94.261693,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Junagadh": {
-    "lat": 21.8996,
-    "lng": 71.3481,
+    "lat": 21.377077,
+    "lng": 70.408216,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kabeerdham": {
-    "lat": 20.7855,
-    "lng": 81.9003,
+    "lat": 22.099138,
+    "lng": 81.225798,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kachchh": {
     "lat": 22.1156,
@@ -1854,22 +1854,22 @@
     "source": "approximate_state_offset"
   },
   "Kaimur": {
-    "lat": 25.7585,
-    "lng": 84.6372,
+    "lat": 24.994406,
+    "lng": 83.607174,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kaithal": {
-    "lat": 29.813,
-    "lng": 75.9281,
+    "lat": 29.805576,
+    "lng": 76.414762,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kakching": {
-    "lat": 24.0625,
-    "lng": 93.5355,
+    "lat": 24.436581,
+    "lng": 93.91215,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kakinada": {
     "lat": 15.6663,
@@ -1878,52 +1878,52 @@
     "source": "approximate_state_offset"
   },
   "Kalaburagi": {
-    "lat": 15.8555,
-    "lng": 75.7895,
+    "lat": 17.256967,
+    "lng": 76.858657,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kalahandi": {
-    "lat": 21.6321,
-    "lng": 84.851,
+    "lat": 19.863968,
+    "lng": 83.105928,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kalimpong": {
-    "lat": 23.7005,
-    "lng": 88.7037,
+    "lat": 27.030911,
+    "lng": 88.62726,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kallakurichi": {
-    "lat": 11.893,
-    "lng": 79.4642,
+    "lat": 11.798107,
+    "lng": 79.016126,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kamareddy": {
-    "lat": 17.4122,
-    "lng": 78.9221,
+    "lat": 18.319826,
+    "lng": 78.057614,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kamjong": {
-    "lat": 24.2533,
-    "lng": 93.1134,
+    "lat": 24.82532,
+    "lng": 94.430832,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kamle": {
-    "lat": 28.7076,
-    "lng": 94.6459,
+    "lat": 27.723538,
+    "lng": 94.093624,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kamrup": {
-    "lat": 25.3708,
-    "lng": 92.0862,
+    "lat": 26.107611,
+    "lng": 91.410482,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kamrup Metro": {
     "lat": 25.5607,
@@ -1932,10 +1932,10 @@
     "source": "approximate_state_offset"
   },
   "Kancheepuram": {
-    "lat": 11.7769,
-    "lng": 78.7019,
+    "lat": 12.831484,
+    "lng": 79.832565,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kandhamala": {
     "lat": 21.7509,
@@ -1944,22 +1944,22 @@
     "source": "approximate_state_offset"
   },
   "Kangpokpi": {
-    "lat": 24.3163,
-    "lng": 94.611,
+    "lat": 25.020547,
+    "lng": 93.975163,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kangra": {
-    "lat": 30.9662,
-    "lng": 77.5352,
+    "lat": 32.110869,
+    "lng": 76.315861,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kannauj": {
-    "lat": 26.4453,
-    "lng": 81.1631,
+    "lat": 27.014423,
+    "lng": 79.685303,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kanniyakumari": {
     "lat": 11.0353,
@@ -1968,70 +1968,70 @@
     "source": "approximate_state_offset"
   },
   "Kannur": {
-    "lat": 11.6857,
-    "lng": 76.7706,
+    "lat": 11.997345,
+    "lng": 75.529108,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kanpur Dehat": {
-    "lat": 27.0897,
-    "lng": 80.0579,
+    "lat": 26.438819,
+    "lng": 79.849094,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kanpur Nagar": {
-    "lat": 26.2995,
-    "lng": 81.6689,
+    "lat": 26.391941,
+    "lng": 80.205523,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kapurthala": {
-    "lat": 30.7637,
-    "lng": 75.2179,
+    "lat": 31.355087,
+    "lng": 75.385394,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Karauli": {
-    "lat": 27.4927,
-    "lng": 74.2026,
+    "lat": 26.518442,
+    "lng": 76.959361,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Karbi Anglong": {
-    "lat": 25.9333,
-    "lng": 93.1635,
+    "lat": 26.163407,
+    "lng": 93.401351,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kargil": {
-    "lat": 33.5676,
-    "lng": 76.9551,
+    "lat": 33.895838,
+    "lng": 76.496795,
     "state": "Ladakh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Karimnagar": {
-    "lat": 18.1619,
-    "lng": 79.5818,
+    "lat": 18.381674,
+    "lng": 79.227693,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Karur": {
-    "lat": 10.7545,
-    "lng": 79.2221,
+    "lat": 10.845233,
+    "lng": 78.136102,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kasaragod": {
-    "lat": 10.2538,
-    "lng": 75.6267,
+    "lat": 12.449539,
+    "lng": 75.159404,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kasganj": {
-    "lat": 27.006,
-    "lng": 81.0938,
+    "lat": 27.777174,
+    "lng": 78.842262,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kataka": {
     "lat": 20.7996,
@@ -2040,28 +2040,28 @@
     "source": "approximate_state_offset"
   },
   "Kathua": {
-    "lat": 33.8709,
-    "lng": 75.6852,
+    "lat": 32.582377,
+    "lng": 75.586581,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Katihar": {
-    "lat": 25.4741,
-    "lng": 84.5049,
+    "lat": 25.552111,
+    "lng": 87.643178,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Katni": {
-    "lat": 23.0508,
-    "lng": 77.9126,
+    "lat": 23.752616,
+    "lng": 80.408581,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kaushambi": {
-    "lat": 27.2265,
-    "lng": 80.3045,
+    "lat": 25.502642,
+    "lng": 81.413246,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kekri": {
     "lat": 27.0103,
@@ -2076,16 +2076,16 @@
     "source": "approximate_state_offset"
   },
   "Kendujhar": {
-    "lat": 21.1506,
-    "lng": 85.0823,
+    "lat": 21.5341,
+    "lng": 85.706581,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khagaria": {
-    "lat": 25.7225,
-    "lng": 85.0566,
+    "lat": 25.512023,
+    "lng": 86.603565,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khairagarh-Chhuikhadan-Gandai": {
     "lat": 20.5038,
@@ -2100,34 +2100,34 @@
     "source": "approximate_state_offset"
   },
   "Khammam": {
-    "lat": 17.2259,
-    "lng": 79.8374,
+    "lat": 17.20462,
+    "lng": 80.364469,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khandwa": {
-    "lat": 23.6592,
-    "lng": 78.0899,
+    "lat": 21.933091,
+    "lng": 76.566172,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khargone": {
-    "lat": 23.2425,
-    "lng": 78.6056,
+    "lat": 21.917487,
+    "lng": 75.771531,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khawzawl": {
-    "lat": 22.5444,
-    "lng": 92.3805,
+    "lat": 23.495829,
+    "lng": 93.189954,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kheda": {
-    "lat": 21.9014,
-    "lng": 70.9098,
+    "lat": 22.836999,
+    "lng": 72.950938,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kheri": {
     "lat": 27.3705,
@@ -2136,118 +2136,118 @@
     "source": "approximate_state_offset"
   },
   "Khordha": {
-    "lat": 21.7167,
-    "lng": 84.9851,
+    "lat": 20.090128,
+    "lng": 85.514062,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khowai": {
-    "lat": 23.8706,
-    "lng": 92.1007,
+    "lat": 23.947515,
+    "lng": 91.653891,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Khunti": {
-    "lat": 23.7416,
-    "lng": 84.9307,
+    "lat": 22.992481,
+    "lng": 85.261016,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kinnaur": {
-    "lat": 31.0697,
-    "lng": 76.727,
+    "lat": 31.601134,
+    "lng": 78.403333,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kishanganj": {
-    "lat": 25.1906,
-    "lng": 84.5067,
+    "lat": 26.29286,
+    "lng": 87.94059,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kishtwar": {
-    "lat": 34.3803,
-    "lng": 76.3269,
+    "lat": 33.550179,
+    "lng": 75.966011,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kodagu": {
-    "lat": 15.2525,
-    "lng": 74.9048,
+    "lat": 12.324415,
+    "lng": 75.803027,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Koderma": {
-    "lat": 23.1728,
-    "lng": 85.54,
+    "lat": 24.492889,
+    "lng": 85.659293,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kohima": {
-    "lat": 26.3303,
-    "lng": 94.0242,
+    "lat": 25.772247,
+    "lng": 94.107443,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kokrajhar": {
-    "lat": 25.6732,
-    "lng": 92.6595,
+    "lat": 26.49662,
+    "lng": 90.113184,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kolar": {
-    "lat": 15.5171,
-    "lng": 75.182,
+    "lat": 13.140345,
+    "lng": 78.21619,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kolasib": {
-    "lat": 23.529,
-    "lng": 92.3697,
+    "lat": 24.200461,
+    "lng": 92.730382,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kolhapur": {
-    "lat": 20.5183,
-    "lng": 76.1495,
+    "lat": 16.475178,
+    "lng": 74.159355,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kolkata": {
-    "lat": 23.7725,
-    "lng": 87.333,
+    "lat": 22.556345,
+    "lng": 88.346354,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kollam": {
-    "lat": 10.7677,
-    "lng": 76.6896,
+    "lat": 8.960114,
+    "lng": 76.869577,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kondagaon": {
-    "lat": 21.2535,
-    "lng": 81.1632,
+    "lat": 19.744484,
+    "lng": 81.666567,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Koppal": {
-    "lat": 14.843,
-    "lng": 75.5645,
+    "lat": 15.560683,
+    "lng": 76.224176,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Koraput": {
-    "lat": 20.8104,
-    "lng": 84.3632,
+    "lat": 18.813905,
+    "lng": 82.714901,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Korba": {
-    "lat": 20.898,
-    "lng": 82.074,
+    "lat": 22.537723,
+    "lng": 82.607881,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Korea": {
     "lat": 21.7809,
@@ -2256,10 +2256,10 @@
     "source": "approximate_state_offset"
   },
   "Kota": {
-    "lat": 27.5593,
-    "lng": 74.3916,
+    "lat": 25.115416,
+    "lng": 76.102592,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kotputli-Behror": {
     "lat": 27.0499,
@@ -2268,46 +2268,46 @@
     "source": "approximate_state_offset"
   },
   "Kottayam": {
-    "lat": 10.5175,
-    "lng": 76.2918,
+    "lat": 9.640539,
+    "lng": 76.641756,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kozhikode": {
-    "lat": 10.1899,
-    "lng": 76.1289,
+    "lat": 11.485842,
+    "lng": 75.830543,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kra Daadi": {
-    "lat": 27.5835,
-    "lng": 95.3254,
+    "lat": 27.998777,
+    "lng": 93.697584,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Krishna": {
-    "lat": 15.3009,
-    "lng": 80.37,
+    "lat": 16.548531,
+    "lng": 80.801545,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Krishnagiri": {
-    "lat": 10.6528,
-    "lng": 77.9837,
+    "lat": 12.491107,
+    "lng": 78.031329,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kulgam": {
-    "lat": 33.5532,
-    "lng": 77.1729,
+    "lat": 33.602633,
+    "lng": 74.847387,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kullu": {
-    "lat": 31.6187,
-    "lng": 78.0212,
+    "lat": 31.899681,
+    "lng": 77.399049,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kumuram Bheem Asifabad": {
     "lat": 18.3554,
@@ -2316,46 +2316,46 @@
     "source": "approximate_state_offset"
   },
   "Kupwara": {
-    "lat": 33.582,
-    "lng": 75.7518,
+    "lat": 34.524801,
+    "lng": 74.214117,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kurnool": {
-    "lat": 15.9633,
-    "lng": 80.2251,
+    "lat": 15.531287,
+    "lng": 77.997153,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kurukshetra": {
-    "lat": 29.9084,
-    "lng": 76.667,
+    "lat": 30.039307,
+    "lng": 76.777913,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kurung Kumey": {
-    "lat": 27.5178,
-    "lng": 95.4595,
+    "lat": 28.016418,
+    "lng": 93.200367,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Kushinagar": {
-    "lat": 26.7513,
-    "lng": 80.5565,
+    "lat": 26.857692,
+    "lng": 83.930737,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lahaul And Spiti": {
-    "lat": 31.3514,
-    "lng": 78.0221,
+    "lat": 32.479893,
+    "lng": 77.619457,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lakhimpur": {
-    "lat": 26.2771,
-    "lng": 93.0951,
+    "lat": 27.176349,
+    "lng": 94.146754,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lakshadweep District": {
     "lat": 10.8655,
@@ -2364,28 +2364,28 @@
     "source": "approximate_state_offset"
   },
   "Lalitpur": {
-    "lat": 26.8152,
-    "lng": 81.3908,
+    "lat": 24.654558,
+    "lng": 78.564478,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Latehar": {
-    "lat": 23.8424,
-    "lng": 84.685,
+    "lat": 23.714753,
+    "lng": 84.439666,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Latur": {
-    "lat": 19.4059,
-    "lng": 75.1487,
+    "lat": 18.376784,
+    "lng": 76.765203,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lawngtlai": {
-    "lat": 23.3904,
-    "lng": 93.7287,
+    "lat": 22.387203,
+    "lng": 92.7136,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Leparada": {
     "lat": 28.6014,
@@ -2394,100 +2394,100 @@
     "source": "approximate_state_offset"
   },
   "Lohardaga": {
-    "lat": 23.8703,
-    "lng": 85.5616,
+    "lat": 23.474993,
+    "lng": 84.674236,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lohit": {
-    "lat": 28.7067,
-    "lng": 95.3452,
+    "lat": 27.899408,
+    "lng": 96.279877,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Longding": {
-    "lat": 28.9911,
-    "lng": 95.545,
+    "lat": 26.851517,
+    "lng": 95.324699,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lower Dibang Valley": {
-    "lat": 28.6122,
-    "lng": 93.8341,
+    "lat": 28.251502,
+    "lng": 95.843124,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lower Siang": {
-    "lat": 28.6176,
-    "lng": 94.0825,
+    "lat": 27.768439,
+    "lng": 94.685304,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lower Subansiri": {
-    "lat": 27.9552,
-    "lng": 95.2102,
+    "lat": 27.560518,
+    "lng": 93.785924,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lucknow": {
-    "lat": 26.484,
-    "lng": 81.7337,
+    "lat": 26.841126,
+    "lng": 80.903836,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ludhiana": {
-    "lat": 30.9275,
-    "lng": 75.9199,
+    "lat": 30.806086,
+    "lng": 75.834672,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Lunglei": {
-    "lat": 22.3464,
-    "lng": 92.5371,
+    "lat": 22.978009,
+    "lng": 92.653678,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Madhepura": {
-    "lat": 25.2239,
-    "lng": 84.5643,
+    "lat": 25.812427,
+    "lng": 86.905147,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Madhubani": {
-    "lat": 25.9844,
-    "lng": 85.2825,
+    "lat": 26.401251,
+    "lng": 86.220763,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Madurai": {
-    "lat": 11.6464,
-    "lng": 78.0278,
+    "lat": 9.927019,
+    "lng": 78.009338,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahabubabad": {
-    "lat": 17.7596,
-    "lng": 79.1534,
+    "lat": 17.663788,
+    "lng": 79.980092,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahabubnagar": {
-    "lat": 17.6156,
-    "lng": 78.5261,
+    "lat": 16.751229,
+    "lng": 77.991182,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahasamund": {
-    "lat": 21.7449,
-    "lng": 82.4889,
+    "lat": 21.206829,
+    "lng": 82.609963,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahendragarh": {
-    "lat": 28.8833,
-    "lng": 76.8857,
+    "lat": 28.169952,
+    "lng": 76.140547,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahesana": {
     "lat": 21.9257,
@@ -2496,16 +2496,16 @@
     "source": "approximate_state_offset"
   },
   "Mahisagar": {
-    "lat": 21.5144,
-    "lng": 70.2924,
+    "lat": 23.192918,
+    "lng": 73.650002,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahoba": {
-    "lat": 26.0385,
-    "lng": 81.3476,
+    "lat": 25.362685,
+    "lng": 79.729078,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mahrajganj": {
     "lat": 27.1878,
@@ -2520,28 +2520,28 @@
     "source": "approximate_state_offset"
   },
   "Mainpuri": {
-    "lat": 27.6594,
-    "lng": 80.8832,
+    "lat": 27.183359,
+    "lng": 79.04958,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Majuli": {
-    "lat": 26.0413,
-    "lng": 92.4282,
+    "lat": 27.001664,
+    "lng": 94.295993,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Malappuram": {
-    "lat": 11.0359,
-    "lng": 76.0785,
+    "lat": 11.136786,
+    "lng": 76.154785,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Malda": {
-    "lat": 22.1858,
-    "lng": 88.0125,
+    "lat": 25.144929,
+    "lng": 88.083967,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Malerkotla": {
     "lat": 31.4585,
@@ -2550,46 +2550,46 @@
     "source": "approximate_state_offset"
   },
   "Malkangiri": {
-    "lat": 20.7384,
-    "lng": 85.0202,
+    "lat": 18.256967,
+    "lng": 81.946731,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mamit": {
-    "lat": 23.286,
-    "lng": 92.2626,
+    "lat": 23.750221,
+    "lng": 92.464892,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mancherial": {
-    "lat": 18.17,
-    "lng": 79.0382,
+    "lat": 18.99369,
+    "lng": 79.519162,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mandi": {
-    "lat": 31.085,
-    "lng": 77.9609,
+    "lat": 31.634812,
+    "lng": 76.991251,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mandla": {
-    "lat": 23.2011,
-    "lng": 77.8334,
+    "lat": 22.637889,
+    "lng": 80.512988,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mandsaur": {
-    "lat": 23.2821,
-    "lng": 78.9269,
+    "lat": 24.199758,
+    "lng": 75.405073,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mandya": {
-    "lat": 14.7494,
-    "lng": 76.5878,
+    "lat": 12.616494,
+    "lng": 76.793962,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Manendragarh-Chirmiri-Bharatpur": {
     "lat": 21.6765,
@@ -2604,10 +2604,10 @@
     "source": "approximate_state_offset"
   },
   "Mansa": {
-    "lat": 30.5837,
-    "lng": 75.5815,
+    "lat": 29.919047,
+    "lng": 75.433193,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Marigaon": {
     "lat": 27.0448,
@@ -2616,16 +2616,16 @@
     "source": "approximate_state_offset"
   },
   "Mathura": {
-    "lat": 26.7783,
-    "lng": 80.1578,
+    "lat": 27.601501,
+    "lng": 77.626016,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mau": {
-    "lat": 26.9241,
-    "lng": 80.6006,
+    "lat": 26.050513,
+    "lng": 83.562359,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mauganj": {
     "lat": 23.8473,
@@ -2640,40 +2640,40 @@
     "source": "approximate_state_offset"
   },
   "Mayurbhanj": {
-    "lat": 20.6799,
-    "lng": 85.3676,
+    "lat": 21.895564,
+    "lng": 86.410103,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Medak": {
-    "lat": 17.6102,
-    "lng": 78.2444,
+    "lat": 17.954083,
+    "lng": 78.268637,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Medchal Malkajgiri": {
-    "lat": 18.0665,
-    "lng": 78.7853,
+    "lat": 17.541319,
+    "lng": 78.556075,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Meerut": {
-    "lat": 26.3544,
-    "lng": 80.669,
+    "lat": 29.033655,
+    "lng": 77.788282,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mirzapur": {
-    "lat": 26.3715,
-    "lng": 81.3881,
+    "lat": 24.986672,
+    "lng": 82.610298,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Moga": {
-    "lat": 31.0436,
-    "lng": 76.0765,
+    "lat": 30.767,
+    "lng": 75.171829,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mohla-Manpur-Ambagarh Chouki": {
     "lat": 21.7971,
@@ -2682,46 +2682,46 @@
     "source": "approximate_state_offset"
   },
   "Mokokchung": {
-    "lat": 26.0324,
-    "lng": 94.314,
+    "lat": 26.473054,
+    "lng": 94.5349,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mon": {
-    "lat": 26.594,
-    "lng": 93.7677,
+    "lat": 26.683735,
+    "lng": 95.019603,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Moradabad": {
-    "lat": 27.6981,
-    "lng": 80.6906,
+    "lat": 28.897118,
+    "lng": 78.785281,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Morbi": {
-    "lat": 23.075,
-    "lng": 71.0583,
+    "lat": 22.835842,
+    "lng": 70.927807,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Morena": {
-    "lat": 23.0436,
-    "lng": 78.7658,
+    "lat": 26.417691,
+    "lng": 77.867096,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mulugu": {
-    "lat": 18.9521,
-    "lng": 78.2525,
+    "lat": 18.292151,
+    "lng": 80.326108,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mumbai": {
-    "lat": 20.6407,
-    "lng": 76.154,
+    "lat": 19.093191,
+    "lng": 72.875591,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mumbai Suburban": {
     "lat": 19.1314,
@@ -2730,40 +2730,40 @@
     "source": "approximate_state_offset"
   },
   "Mungeli": {
-    "lat": 21.294,
-    "lng": 81.0129,
+    "lat": 22.228248,
+    "lng": 81.729944,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Munger": {
-    "lat": 25.5002,
-    "lng": 85.4076,
+    "lat": 25.201729,
+    "lng": 86.530531,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Murshidabad": {
-    "lat": 22.4657,
-    "lng": 87.1989,
+    "lat": 24.174852,
+    "lng": 88.225627,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Muzaffarnagar": {
-    "lat": 26.4021,
-    "lng": 81.1451,
+    "lat": 29.418518,
+    "lng": 77.728898,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Muzaffarpur": {
-    "lat": 24.2897,
-    "lng": 85.2501,
+    "lat": 26.149319,
+    "lng": 85.324609,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Mysuru": {
-    "lat": 14.735,
-    "lng": 75.8858,
+    "lat": 12.210473,
+    "lng": 76.449863,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nabarangpur": {
     "lat": 21.7032,
@@ -2772,70 +2772,70 @@
     "source": "approximate_state_offset"
   },
   "Nadia": {
-    "lat": 23.4071,
-    "lng": 87.9846,
+    "lat": 23.487533,
+    "lng": 88.513752,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nagaon": {
-    "lat": 26.7478,
-    "lng": 92.4642,
+    "lat": 26.360685,
+    "lng": 92.742111,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nagapattinam": {
-    "lat": 11.9461,
-    "lng": 78.1682,
+    "lat": 10.815336,
+    "lng": 79.73082,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nagarkurnool": {
-    "lat": 18.7442,
-    "lng": 78.6917,
+    "lat": 16.388158,
+    "lng": 78.593312,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nagaur": {
-    "lat": 27.517,
-    "lng": 73.3278,
+    "lat": 27.066085,
+    "lng": 74.169532,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nagpur": {
-    "lat": 20.1286,
-    "lng": 75.8066,
+    "lat": 21.179454,
+    "lng": 79.084907,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nainital": {
-    "lat": 30.4511,
-    "lng": 79.2029,
+    "lat": 29.319791,
+    "lng": 79.466804,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nalanda": {
-    "lat": 25.4327,
-    "lng": 85.2294,
+    "lat": 25.227137,
+    "lng": 85.44836,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nalbari": {
-    "lat": 26.287,
-    "lng": 93.7359,
+    "lat": 26.383336,
+    "lng": 91.383445,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nalgonda": {
-    "lat": 18.8279,
-    "lng": 78.2462,
+    "lat": 16.874567,
+    "lng": 79.194589,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Namakkal": {
-    "lat": 10.6897,
-    "lng": 79.2554,
+    "lat": 11.318569,
+    "lng": 78.140286,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Namchi": {
     "lat": 26.7536,
@@ -2844,22 +2844,22 @@
     "source": "approximate_state_offset"
   },
   "Namsai": {
-    "lat": 28.2819,
-    "lng": 95.1859,
+    "lat": 27.700226,
+    "lng": 96.046274,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nanded": {
-    "lat": 20.332,
-    "lng": 74.8994,
+    "lat": 19.117704,
+    "lng": 77.619572,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nandurbar": {
-    "lat": 19.1305,
-    "lng": 75.3683,
+    "lat": 21.550765,
+    "lng": 74.215762,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nandyal": {
     "lat": 15.4026,
@@ -2868,22 +2868,22 @@
     "source": "approximate_state_offset"
   },
   "Narayanpet": {
-    "lat": 17.6894,
-    "lng": 79.7924,
+    "lat": 16.64151,
+    "lng": 77.583899,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Narayanpur": {
-    "lat": 20.8017,
-    "lng": 82.569,
+    "lat": 19.569928,
+    "lng": 81.089017,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Narmada": {
-    "lat": 21.6971,
-    "lng": 71.9979,
+    "lat": 21.733966,
+    "lng": 73.649239,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Narmadapuram": {
     "lat": 22.6125,
@@ -2898,22 +2898,22 @@
     "source": "approximate_state_offset"
   },
   "Nashik": {
-    "lat": 18.9577,
-    "lng": 75.281,
+    "lat": 20.257351,
+    "lng": 74.071446,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Navsari": {
-    "lat": 22.7276,
-    "lng": 70.2987,
+    "lat": 20.812087,
+    "lng": 73.10008,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nawada": {
-    "lat": 25.3742,
-    "lng": 85.188,
+    "lat": 24.814348,
+    "lng": 85.593462,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nayagada": {
     "lat": 21.0822,
@@ -2928,10 +2928,10 @@
     "source": "approximate_state_offset"
   },
   "Neemuch": {
-    "lat": 23.6457,
-    "lng": 79.295,
+    "lat": 24.5864,
+    "lng": 75.14141,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "New Delhi": {
     "lat": 28.7599,
@@ -2940,28 +2940,28 @@
     "source": "approximate_state_offset"
   },
   "Nicobars": {
-    "lat": 11.7176,
-    "lng": 92.3931,
+    "lat": 7.244878,
+    "lng": 93.695715,
     "state": "Andaman And Nicobar Islands",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nirmal": {
-    "lat": 18.323,
-    "lng": 78.6044,
+    "lat": 19.114675,
+    "lng": 78.316608,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Niwari": {
-    "lat": 22.8735,
-    "lng": 77.7614,
+    "lat": 25.273645,
+    "lng": 78.753815,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nizamabad": {
-    "lat": 18.3626,
-    "lng": 79.5206,
+    "lat": 18.700621,
+    "lng": 78.208443,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North": {
     "lat": 29.5051,
@@ -2970,16 +2970,16 @@
     "source": "approximate_state_offset"
   },
   "North 24 Parganas": {
-    "lat": 23.7986,
-    "lng": 88.4976,
+    "lat": 22.730461,
+    "lng": 88.731959,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North And Middle Andaman": {
-    "lat": 12.1865,
-    "lng": 92.3499,
+    "lat": 12.86237,
+    "lng": 92.874031,
     "state": "Andaman And Nicobar Islands",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North East": {
     "lat": 29.038,
@@ -2988,22 +2988,22 @@
     "source": "approximate_state_offset"
   },
   "North Garo Hills": {
-    "lat": 25.5804,
-    "lng": 91.3671,
+    "lat": 25.859746,
+    "lng": 90.676504,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North Goa": {
-    "lat": 15.3443,
-    "lng": 73.233,
+    "lat": 15.581122,
+    "lng": 73.97562,
     "state": "Goa",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North Tripura": {
-    "lat": 23.8031,
-    "lng": 92.6938,
+    "lat": 24.110183,
+    "lng": 92.207211,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "North West": {
     "lat": 28.5124,
@@ -3018,22 +3018,22 @@
     "source": "approximate_state_offset"
   },
   "Nuapada": {
-    "lat": 21.3666,
-    "lng": 84.5729,
+    "lat": 20.468627,
+    "lng": 82.575473,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Nuh": {
-    "lat": 29.1911,
-    "lng": 76.2611,
+    "lat": 27.99222,
+    "lng": 77.050995,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pakur": {
-    "lat": 23.0036,
-    "lng": 84.9217,
+    "lat": 24.559754,
+    "lng": 87.664051,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pakyong": {
     "lat": 28.2215,
@@ -3042,28 +3042,28 @@
     "source": "approximate_state_offset"
   },
   "Palakkad": {
-    "lat": 10.3645,
-    "lng": 77.154,
+    "lat": 10.793484,
+    "lng": 76.555043,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Palamu": {
-    "lat": 24.233,
-    "lng": 85.8136,
+    "lat": 24.202329,
+    "lng": 84.169414,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Palghar": {
-    "lat": 20.4571,
-    "lng": 75.1874,
+    "lat": 19.795273,
+    "lng": 73.009673,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pali": {
-    "lat": 27.481,
-    "lng": 74.208,
+    "lat": 25.699972,
+    "lng": 73.513255,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Palnadu": {
     "lat": 16.1892,
@@ -3072,10 +3072,10 @@
     "source": "approximate_state_offset"
   },
   "Palwal": {
-    "lat": 28.463,
-    "lng": 76.2197,
+    "lat": 28.054607,
+    "lng": 77.330559,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Panch Mahals": {
     "lat": 22.4099,
@@ -3084,10 +3084,10 @@
     "source": "approximate_state_offset"
   },
   "Panchkula": {
-    "lat": 29.8121,
-    "lng": 75.4808,
+    "lat": 30.678939,
+    "lng": 76.978463,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pandhurna": {
     "lat": 23.022,
@@ -3096,28 +3096,28 @@
     "source": "approximate_state_offset"
   },
   "Panipat": {
-    "lat": 29.4458,
-    "lng": 75.9587,
+    "lat": 29.337815,
+    "lng": 76.934034,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Panna": {
-    "lat": 22.2975,
-    "lng": 79.4714,
+    "lat": 24.416736,
+    "lng": 80.192824,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Papum Pare": {
-    "lat": 28.461,
-    "lng": 94.4155,
+    "lat": 27.288343,
+    "lng": 93.587369,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Parbhani": {
-    "lat": 20.3608,
-    "lng": 76.2701,
+    "lat": 19.26558,
+    "lng": 76.674459,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Parvathipuram Manyam": {
     "lat": 16.0371,
@@ -3126,16 +3126,16 @@
     "source": "approximate_state_offset"
   },
   "Paschim Bardhaman": {
-    "lat": 23.0867,
-    "lng": 87.7335,
+    "lat": 23.665998,
+    "lng": 87.156041,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Paschim Medinipur": {
-    "lat": 22.6052,
-    "lng": 87.4059,
+    "lat": 22.440164,
+    "lng": 87.419075,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pashchim Champaran": {
     "lat": 24.8441,
@@ -3144,76 +3144,76 @@
     "source": "approximate_state_offset"
   },
   "Patan": {
-    "lat": 21.9788,
-    "lng": 71.5956,
+    "lat": 23.773803,
+    "lng": 71.75798,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pathanamthitta": {
-    "lat": 10.4473,
-    "lng": 77.0973,
+    "lat": 9.288451,
+    "lng": 76.936113,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pathankot": {
-    "lat": 30.275,
-    "lng": 76.189,
+    "lat": 32.298572,
+    "lng": 75.621777,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Patiala": {
-    "lat": 31.9211,
-    "lng": 75.046,
+    "lat": 30.283175,
+    "lng": 76.348082,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Patna": {
-    "lat": 25.3904,
-    "lng": 85.1079,
+    "lat": 25.454602,
+    "lng": 85.228187,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pauri Garhwal": {
-    "lat": 30.3692,
-    "lng": 79.0805,
+    "lat": 29.883345,
+    "lng": 78.760786,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Peddapalli": {
-    "lat": 18.17,
-    "lng": 79.0283,
+    "lat": 18.621845,
+    "lng": 79.454725,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Perambalur": {
-    "lat": 11.7229,
-    "lng": 79.484,
+    "lat": 11.273351,
+    "lng": 78.89696,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Peren": {
-    "lat": 25.532,
-    "lng": 94.0098,
+    "lat": 25.491545,
+    "lng": 93.617254,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Phek": {
-    "lat": 25.8614,
-    "lng": 94.2672,
+    "lat": 25.647889,
+    "lng": 94.534151,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pilibhit": {
-    "lat": 27.42,
-    "lng": 80.5844,
+    "lat": 28.52964,
+    "lng": 79.996859,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pithoragarh": {
-    "lat": 30.8102,
-    "lng": 79.3676,
+    "lat": 30.121361,
+    "lng": 80.349372,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Poonch": {
     "lat": 34.0095,
@@ -3222,64 +3222,64 @@
     "source": "approximate_state_offset"
   },
   "Porbandar": {
-    "lat": 21.7106,
-    "lng": 70.8081,
+    "lat": 21.662687,
+    "lng": 69.774604,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Prakasam": {
-    "lat": 16.7481,
-    "lng": 80.1891,
+    "lat": 15.618809,
+    "lng": 79.514998,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pratapgarh": {
-    "lat": 27.7431,
-    "lng": 81.3791,
+    "lat": 25.868843,
+    "lng": 81.828121,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Prayagraj": {
-    "lat": 26.3139,
-    "lng": 81.4988,
+    "lat": 25.30397,
+    "lng": 81.963154,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Puducherry": {
-    "lat": 11.4421,
-    "lng": 80.5913,
+    "lat": 11.903195,
+    "lng": 79.776064,
     "state": "Puducherry",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pudukkottai": {
-    "lat": 11.5807,
-    "lng": 79.133,
+    "lat": 10.361862,
+    "lng": 78.880494,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pulwama": {
-    "lat": 33.1149,
-    "lng": 76.3944,
+    "lat": 33.938081,
+    "lng": 75.016228,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Pune": {
-    "lat": 20.1916,
-    "lng": 76.5437,
+    "lat": 18.568646,
+    "lng": 74.064546,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Purba Bardhaman": {
-    "lat": 22.1237,
-    "lng": 88.0116,
+    "lat": 23.355945,
+    "lng": 87.950313,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Purba Medinipur": {
-    "lat": 22.157,
-    "lng": 87.9909,
+    "lat": 22.030218,
+    "lng": 87.774463,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Purbi Champaran": {
     "lat": 25.781,
@@ -3288,172 +3288,172 @@
     "source": "approximate_state_offset"
   },
   "Puri": {
-    "lat": 21.3684,
-    "lng": 84.7538,
+    "lat": 19.878153,
+    "lng": 85.727528,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Purnia": {
-    "lat": 25.0079,
-    "lng": 85.4607,
+    "lat": 25.815594,
+    "lng": 87.403108,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Purulia": {
-    "lat": 23.6348,
-    "lng": 87.6768,
+    "lat": 23.279839,
+    "lng": 86.423856,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rae Bareli": {
-    "lat": 27.6774,
-    "lng": 80.1065,
+    "lat": 26.225636,
+    "lng": 81.147085,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Raichur": {
-    "lat": 14.8088,
-    "lng": 75.8615,
+    "lat": 16.09323,
+    "lng": 76.896789,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Raigad": {
-    "lat": 20.5012,
-    "lng": 76.4582,
+    "lat": 18.516158,
+    "lng": 73.217416,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Raigarh": {
-    "lat": 20.7873,
-    "lng": 82.155,
+    "lat": 22.076278,
+    "lng": 83.302576,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Raipur": {
-    "lat": 21.1203,
-    "lng": 82.002,
+    "lat": 21.28601,
+    "lng": 81.823118,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Raisen": {
-    "lat": 23.7285,
-    "lng": 79.0817,
+    "lat": 23.224209,
+    "lng": 78.117364,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajanna Sircilla": {
-    "lat": 18.6659,
-    "lng": 79.4009,
+    "lat": 18.411461,
+    "lng": 78.75916,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajgarh": {
-    "lat": 23.1012,
-    "lng": 78.053,
+    "lat": 23.863376,
+    "lng": 76.731508,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajkot": {
-    "lat": 22.9796,
-    "lng": 71.4255,
+    "lat": 22.026942,
+    "lng": 70.751885,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajnandgaon": {
-    "lat": 20.7738,
-    "lng": 81.8544,
+    "lat": 21.049663,
+    "lng": 80.822309,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajouri": {
-    "lat": 33.7593,
-    "lng": 76.5582,
+    "lat": 33.270832,
+    "lng": 74.387692,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rajsamand": {
-    "lat": 27.3181,
-    "lng": 75.0963,
+    "lat": 25.22394,
+    "lng": 73.888045,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ramanathapuram": {
-    "lat": 11.2423,
-    "lng": 79.1474,
+    "lat": 9.446588,
+    "lng": 78.68067,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ramban": {
-    "lat": 34.2705,
-    "lng": 77.2161,
+    "lat": 33.325867,
+    "lng": 75.1921,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ramgarh": {
-    "lat": 24.1412,
-    "lng": 85.3897,
+    "lat": 23.631403,
+    "lng": 85.558584,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rampur": {
-    "lat": 27.6162,
-    "lng": 81.5582,
+    "lat": 28.81941,
+    "lng": 79.114749,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ranchi": {
-    "lat": 23.1494,
-    "lng": 85.9153,
+    "lat": 23.330382,
+    "lng": 85.366464,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ranga Reddy": {
-    "lat": 18.4112,
-    "lng": 78.5432,
+    "lat": 17.12645,
+    "lng": 78.414994,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ranipet": {
-    "lat": 10.309,
-    "lng": 77.837,
+    "lat": 12.956266,
+    "lng": 79.458274,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ratlam": {
-    "lat": 23.0652,
-    "lng": 78.197,
+    "lat": 23.497511,
+    "lng": 75.079308,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ratnagiri": {
-    "lat": 18.8992,
-    "lng": 75.8984,
+    "lat": 17.269047,
+    "lng": 73.461508,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rayagada": {
-    "lat": 21.2442,
-    "lng": 84.3497,
+    "lat": 19.36445,
+    "lng": 83.519117,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Reasi": {
-    "lat": 33.3795,
-    "lng": 76.9254,
+    "lat": 33.223625,
+    "lng": 74.851606,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rewa": {
-    "lat": 22.4721,
-    "lng": 78.6506,
+    "lat": 24.757477,
+    "lng": 81.590519,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rewari": {
-    "lat": 28.6124,
-    "lng": 76.6427,
+    "lat": 28.238664,
+    "lng": 76.541159,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ri Bhoi": {
     "lat": 25.8198,
@@ -3462,22 +3462,22 @@
     "source": "approximate_state_offset"
   },
   "Rohtak": {
-    "lat": 29.4449,
-    "lng": 75.2261,
+    "lat": 28.915688,
+    "lng": 76.531873,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rohtas": {
-    "lat": 24.1988,
-    "lng": 85.4958,
+    "lat": 24.978374,
+    "lng": 84.023089,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Rupnagar": {
-    "lat": 30.8771,
-    "lng": 76.117,
+    "lat": 31.063703,
+    "lng": 76.487007,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "S.A.S Nagar": {
     "lat": 30.9806,
@@ -3492,22 +3492,22 @@
     "source": "approximate_state_offset"
   },
   "Sagar": {
-    "lat": 23.3325,
-    "lng": 78.323,
+    "lat": 23.858198,
+    "lng": 78.757974,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Saharanpur": {
-    "lat": 26.3193,
-    "lng": 81.1406,
+    "lat": 29.9531,
+    "lng": 77.55067,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Saharsa": {
-    "lat": 24.6731,
-    "lng": 85.7334,
+    "lat": 25.817552,
+    "lng": 86.589739,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sahebganj": {
     "lat": 23.6462,
@@ -3528,10 +3528,10 @@
     "source": "approximate_state_offset"
   },
   "Salem": {
-    "lat": 11.7022,
-    "lng": 78.476,
+    "lat": 11.674259,
+    "lng": 78.229108,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Salumbar": {
     "lat": 26.2525,
@@ -3540,28 +3540,28 @@
     "source": "approximate_state_offset"
   },
   "Samastipur": {
-    "lat": 25.0205,
-    "lng": 84.4923,
+    "lat": 25.77463,
+    "lng": 85.861906,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Samba": {
-    "lat": 34.1706,
-    "lng": 76.2729,
+    "lat": 32.580283,
+    "lng": 75.090519,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sambalpur": {
-    "lat": 21.6114,
-    "lng": 85.9796,
+    "lat": 21.452517,
+    "lng": 84.277409,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sambhal": {
-    "lat": 25.9647,
-    "lng": 80.957,
+    "lat": 28.454565,
+    "lng": 78.553794,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sanchor": {
     "lat": 27.8338,
@@ -3570,28 +3570,28 @@
     "source": "approximate_state_offset"
   },
   "Sangareddy": {
-    "lat": 17.2277,
-    "lng": 78.7655,
+    "lat": 17.777464,
+    "lng": 77.875397,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sangli": {
-    "lat": 20.5696,
-    "lng": 75.0011,
+    "lat": 17.112235,
+    "lng": 74.774409,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sangrur": {
-    "lat": 31.4621,
-    "lng": 75.2386,
+    "lat": 30.213539,
+    "lng": 75.869726,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sant Kabir Nagar": {
-    "lat": 27.411,
-    "lng": 81.3377,
+    "lat": 26.783646,
+    "lng": 83.028599,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Saraikela Kharsawan": {
     "lat": 23.99,
@@ -3600,10 +3600,10 @@
     "source": "approximate_state_offset"
   },
   "Saran": {
-    "lat": 24.5876,
-    "lng": 85.3509,
+    "lat": 25.903349,
+    "lng": 84.820606,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sarangarh-Bilaigarh": {
     "lat": 21.5181,
@@ -3612,34 +3612,34 @@
     "source": "approximate_state_offset"
   },
   "Satara": {
-    "lat": 19.9468,
-    "lng": 75.9128,
+    "lat": 17.666811,
+    "lng": 74.177995,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Satna": {
-    "lat": 23.3685,
-    "lng": 78.7451,
+    "lat": 24.536451,
+    "lng": 80.837841,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sehore": {
-    "lat": 23.6907,
-    "lng": 78.5867,
+    "lat": 22.987232,
+    "lng": 77.124212,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Senapati": {
-    "lat": 23.9563,
-    "lng": 94.2474,
+    "lat": 25.390882,
+    "lng": 94.122301,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Seoni": {
-    "lat": 22.4289,
-    "lng": 78.8621,
+    "lat": 22.316528,
+    "lng": 79.690241,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sepahijala": {
     "lat": 23.1326,
@@ -3648,28 +3648,28 @@
     "source": "approximate_state_offset"
   },
   "Serchhip": {
-    "lat": 23.3058,
-    "lng": 93.303,
+    "lat": 23.264117,
+    "lng": 92.957484,
     "state": "Mizoram",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shahdol": {
-    "lat": 23.0265,
-    "lng": 78.9044,
+    "lat": 23.631962,
+    "lng": 81.473611,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shahid Bhagat Singh Nagar": {
-    "lat": 31.4306,
-    "lng": 75.8407,
+    "lat": 31.112532,
+    "lng": 76.145819,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shahjahanpur": {
-    "lat": 26.0322,
-    "lng": 80.7878,
+    "lat": 27.948633,
+    "lng": 79.819844,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shahpura": {
     "lat": 27.2128,
@@ -3678,52 +3678,52 @@
     "source": "approximate_state_offset"
   },
   "Shajapur": {
-    "lat": 23.0544,
-    "lng": 79.4462,
+    "lat": 23.371538,
+    "lng": 76.56966,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shamli": {
-    "lat": 26.7423,
-    "lng": 81.3611,
+    "lat": 29.496622,
+    "lng": 77.283979,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sheikhpura": {
-    "lat": 24.3824,
-    "lng": 85.5543,
+    "lat": 25.123764,
+    "lng": 85.833143,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sheohar": {
-    "lat": 24.6884,
-    "lng": 85.5615,
+    "lat": 26.493767,
+    "lng": 85.299089,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sheopur": {
-    "lat": 22.6908,
-    "lng": 77.7866,
+    "lat": 25.749706,
+    "lng": 77.002019,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shimla": {
-    "lat": 31.9121,
-    "lng": 76.7873,
+    "lat": 31.190387,
+    "lng": 77.639808,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shivamogga": {
-    "lat": 15.5999,
-    "lng": 75.416,
+    "lat": 14.046237,
+    "lng": 75.215506,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shivpuri": {
-    "lat": 23.3748,
-    "lng": 78.3383,
+    "lat": 25.367931,
+    "lng": 77.811291,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Shopian": {
     "lat": 34.5945,
@@ -3732,10 +3732,10 @@
     "source": "approximate_state_offset"
   },
   "Shrawasti": {
-    "lat": 26.9943,
-    "lng": 81.7283,
+    "lat": 27.714083,
+    "lng": 81.905203,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Siaha": {
     "lat": 23.025,
@@ -3744,130 +3744,130 @@
     "source": "approximate_state_offset"
   },
   "Siang": {
-    "lat": 28.6698,
-    "lng": 94.0384,
+    "lat": 28.404942,
+    "lng": 94.818928,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Siddharthnagar": {
-    "lat": 27.4794,
-    "lng": 81.578,
+    "lat": 27.267888,
+    "lng": 82.868402,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Siddipet": {
-    "lat": 18.4211,
-    "lng": 78.1697,
+    "lat": 18.007388,
+    "lng": 78.846828,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sidhi": {
-    "lat": 23.0994,
-    "lng": 78.0107,
+    "lat": 24.221705,
+    "lng": 81.826071,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sikar": {
-    "lat": 27.0562,
-    "lng": 74.1963,
+    "lat": 27.632998,
+    "lng": 75.284802,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Simdega": {
-    "lat": 24.2051,
-    "lng": 84.7444,
+    "lat": 22.580011,
+    "lng": 84.558956,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sindhudurg": {
-    "lat": 18.8749,
-    "lng": 76.5149,
+    "lat": 16.126374,
+    "lng": 73.742171,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Singrauli": {
-    "lat": 22.3164,
-    "lng": 77.9648,
+    "lat": 24.216576,
+    "lng": 82.419186,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sirmaur": {
-    "lat": 30.2093,
-    "lng": 77.3318,
+    "lat": 30.666069,
+    "lng": 77.42759,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sirohi": {
-    "lat": 27.4477,
-    "lng": 74.199,
+    "lat": 24.762095,
+    "lng": 72.779533,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sirsa": {
-    "lat": 29.0498,
-    "lng": 75.4826,
+    "lat": 29.620208,
+    "lng": 74.907907,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sitamarhi": {
-    "lat": 25.3778,
-    "lng": 85.1916,
+    "lat": 26.584716,
+    "lng": 85.554376,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sitapur": {
-    "lat": 27.1221,
-    "lng": 81.2666,
+    "lat": 27.515837,
+    "lng": 80.85171,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sivaganga": {
-    "lat": 10.7455,
-    "lng": 77.765,
+    "lat": 9.927339,
+    "lng": 78.58784,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sivasagar": {
-    "lat": 25.9243,
-    "lng": 93.5577,
+    "lat": 26.965817,
+    "lng": 94.658363,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Siwan": {
-    "lat": 25.7864,
-    "lng": 84.6462,
+    "lat": 26.164166,
+    "lng": 84.393967,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Solan": {
-    "lat": 30.833,
-    "lng": 77.1356,
+    "lat": 31.045834,
+    "lng": 76.909548,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Solapur": {
-    "lat": 19.3879,
-    "lng": 75.5618,
+    "lat": 17.795818,
+    "lng": 75.48557,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sonbhadra": {
-    "lat": 26.871,
-    "lng": 80.8814,
+    "lat": 24.400784,
+    "lng": 83.051279,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sonipat": {
-    "lat": 28.4135,
-    "lng": 75.5105,
+    "lat": 29.055626,
+    "lng": 76.881642,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sonitpur": {
-    "lat": 25.7506,
-    "lng": 92.4336,
+    "lat": 26.758336,
+    "lng": 92.696652,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Soreng": {
     "lat": 27.5762,
@@ -3882,10 +3882,10 @@
     "source": "approximate_state_offset"
   },
   "South 24 Parganas": {
-    "lat": 22.5575,
-    "lng": 87.9225,
+    "lat": 22.143037,
+    "lng": 88.527614,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "South Andamans": {
     "lat": 11.4197,
@@ -3900,16 +3900,16 @@
     "source": "approximate_state_offset"
   },
   "South Garo Hills": {
-    "lat": 26.3247,
-    "lng": 90.6291,
+    "lat": 25.300424,
+    "lng": 90.578027,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "South Goa": {
-    "lat": 14.6603,
-    "lng": 73.2699,
+    "lat": 15.21756,
+    "lng": 74.113484,
     "state": "Goa",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "South Salmara Mancachar": {
     "lat": 25.8199,
@@ -3918,10 +3918,10 @@
     "source": "approximate_state_offset"
   },
   "South Tripura": {
-    "lat": 23.1344,
-    "lng": 92.5066,
+    "lat": 23.194333,
+    "lng": 91.611729,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "South West": {
     "lat": 29.2459,
@@ -3930,22 +3930,22 @@
     "source": "approximate_state_offset"
   },
   "South West Garo Hills": {
-    "lat": 24.8406,
-    "lng": 90.5715,
+    "lat": 25.446442,
+    "lng": 89.993891,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "South West Khasi Hills": {
-    "lat": 25.8225,
-    "lng": 90.6273,
+    "lat": 25.322428,
+    "lng": 91.235871,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sri Muktsar Sahib": {
-    "lat": 30.8645,
-    "lng": 74.6482,
+    "lat": 30.296835,
+    "lng": 74.539551,
     "state": "Punjab",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sri Potti Sriramulu Nellore": {
     "lat": 16.3098,
@@ -3966,34 +3966,34 @@
     "source": "approximate_state_offset"
   },
   "Srikakulam": {
-    "lat": 15.1317,
-    "lng": 79.3116,
+    "lat": 18.591569,
+    "lng": 84.012245,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Srinagar": {
-    "lat": 33.1365,
-    "lng": 76.263,
+    "lat": 34.117157,
+    "lng": 74.917668,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Subarnapur": {
-    "lat": 20.7825,
-    "lng": 85.2569,
+    "lat": 20.931943,
+    "lng": 83.825943,
     "state": "Odisha",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sukma": {
-    "lat": 21.366,
-    "lng": 81.7068,
+    "lat": 18.258098,
+    "lng": 81.347178,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sultanpur": {
-    "lat": 26.232,
-    "lng": 81.0848,
+    "lat": 26.246211,
+    "lng": 82.224278,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Sundaragada": {
     "lat": 20.4648,
@@ -4002,40 +4002,40 @@
     "source": "approximate_state_offset"
   },
   "Supaul": {
-    "lat": 25.4759,
-    "lng": 85.5066,
+    "lat": 26.239774,
+    "lng": 86.806773,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Surajpur": {
-    "lat": 21.8124,
-    "lng": 82.3521,
+    "lat": 23.397181,
+    "lng": 82.882505,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Surat": {
-    "lat": 22.382,
-    "lng": 71.2023,
+    "lat": 21.262541,
+    "lng": 73.075646,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Surendranagar": {
-    "lat": 22.4927,
-    "lng": 70.9575,
+    "lat": 22.779965,
+    "lng": 71.600993,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Surguja": {
-    "lat": 21.1248,
-    "lng": 82.2684,
+    "lat": 22.926093,
+    "lng": 83.225022,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Suryapet": {
-    "lat": 18.2771,
-    "lng": 78.3461,
+    "lat": 17.086842,
+    "lng": 79.753176,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tamulpur": {
     "lat": 27.0115,
@@ -4044,46 +4044,46 @@
     "source": "approximate_state_offset"
   },
   "Tapi": {
-    "lat": 21.4721,
-    "lng": 71.3004,
+    "lat": 21.192837,
+    "lng": 73.626206,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tawang": {
-    "lat": 28.8291,
-    "lng": 94.2868,
+    "lat": 27.656345,
+    "lng": 91.961556,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tehri Garhwal": {
-    "lat": 29.5097,
-    "lng": 79.2695,
+    "lat": 30.437351,
+    "lng": 78.536596,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tengnoupal": {
-    "lat": 25.4476,
-    "lng": 93.1782,
+    "lat": 24.42431,
+    "lng": 94.224334,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tenkasi": {
-    "lat": 10.6348,
-    "lng": 79.1321,
+    "lat": 9.086816,
+    "lng": 77.456262,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thane": {
-    "lat": 19.837,
-    "lng": 76.3673,
+    "lat": 19.362414,
+    "lng": 73.320603,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thanjavur": {
-    "lat": 10.3333,
-    "lng": 79.4624,
+    "lat": 10.665074,
+    "lng": 79.240912,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "The Nilgiris": {
     "lat": 10.7464,
@@ -4092,82 +4092,82 @@
     "source": "approximate_state_offset"
   },
   "Theni": {
-    "lat": 11.0191,
-    "lng": 79.3319,
+    "lat": 9.884596,
+    "lng": 77.437026,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thiruvallur": {
-    "lat": 11.8705,
-    "lng": 79.0484,
+    "lat": 13.233756,
+    "lng": 79.946043,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thiruvananthapuram": {
-    "lat": 10.2745,
-    "lng": 75.4836,
+    "lat": 8.607209,
+    "lng": 77.014992,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thiruvarur": {
-    "lat": 11.353,
-    "lng": 77.8793,
+    "lat": 10.706661,
+    "lng": 79.522565,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thoothukkudi": {
-    "lat": 11.7544,
-    "lng": 78.7865,
+    "lat": 8.894334,
+    "lng": 78.005312,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thoubal": {
-    "lat": 25.4503,
-    "lng": 93.2646,
+    "lat": 24.610445,
+    "lng": 94.002584,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Thrissur": {
-    "lat": 10.6156,
-    "lng": 75.9903,
+    "lat": 10.468169,
+    "lng": 76.318066,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tikamgarh": {
-    "lat": 22.4541,
-    "lng": 77.7713,
+    "lat": 24.885159,
+    "lng": 79.013206,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tinsukia": {
-    "lat": 25.7209,
-    "lng": 93.5631,
+    "lat": 27.579196,
+    "lng": 95.620724,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tirap": {
-    "lat": 28.5555,
-    "lng": 94.8385,
+    "lat": 27.024307,
+    "lng": 95.532608,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tiruchirappalli": {
-    "lat": 10.9867,
-    "lng": 78.2321,
+    "lat": 10.903288,
+    "lng": 78.576191,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tirunelveli": {
-    "lat": 10.3072,
-    "lng": 78.4994,
+    "lat": 8.572997,
+    "lng": 77.605292,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tirupathur": {
-    "lat": 11.7184,
-    "lng": 79.1609,
+    "lat": 12.579443,
+    "lng": 78.632523,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tirupati": {
     "lat": 15.9138,
@@ -4176,166 +4176,166 @@
     "source": "approximate_state_offset"
   },
   "Tiruppur": {
-    "lat": 11.0074,
-    "lng": 78.4049,
+    "lat": 10.840839,
+    "lng": 77.408315,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tiruvannamalai": {
-    "lat": 11.7193,
-    "lng": 77.9801,
+    "lat": 12.433331,
+    "lng": 79.16519,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tonk": {
-    "lat": 27.3109,
-    "lng": 74.3817,
+    "lat": 26.147842,
+    "lng": 75.662796,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Tumakuru": {
-    "lat": 14.7665,
-    "lng": 75.9839,
+    "lat": 13.522322,
+    "lng": 76.944614,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Udaipur": {
-    "lat": 26.4577,
-    "lng": 74.8218,
+    "lat": 24.418958,
+    "lng": 73.689357,
     "state": "Rajasthan",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Udalguri": {
-    "lat": 26.0467,
-    "lng": 92.5758,
+    "lat": 26.732339,
+    "lng": 92.027639,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Udham Singh Nagar": {
-    "lat": 30.6014,
-    "lng": 79.5305,
+    "lat": 29.03786,
+    "lng": 79.477785,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Udhampur": {
-    "lat": 33.7854,
-    "lng": 75.8931,
+    "lat": 32.901104,
+    "lng": 75.303876,
     "state": "Jammu And Kashmir",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Udupi": {
-    "lat": 14.8988,
-    "lng": 76.4609,
+    "lat": 13.496832,
+    "lng": 74.873406,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ujjain": {
-    "lat": 23.1048,
-    "lng": 77.9873,
+    "lat": 23.331837,
+    "lng": 75.667515,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Ukhrul": {
-    "lat": 24.9814,
-    "lng": 93.252,
+    "lat": 25.224544,
+    "lng": 94.422885,
     "state": "Manipur",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Umaria": {
-    "lat": 22.3929,
-    "lng": 79.0556,
+    "lat": 23.564052,
+    "lng": 80.977175,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Una": {
-    "lat": 31.3316,
-    "lng": 77.9924,
+    "lat": 31.583541,
+    "lng": 76.209302,
     "state": "Himachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Unnao": {
-    "lat": 26.313,
-    "lng": 80.7491,
+    "lat": 26.603573,
+    "lng": 80.570089,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Upper Siang": {
-    "lat": 28.4898,
-    "lng": 94.1716,
+    "lat": 28.836471,
+    "lng": 94.915989,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Upper Subansiri": {
-    "lat": 28.8354,
-    "lng": 95.0491,
+    "lat": 28.295215,
+    "lng": 93.928667,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Uttar Bastar Kanker": {
-    "lat": 21.2184,
-    "lng": 81.3954,
+    "lat": 20.14184,
+    "lng": 81.129632,
     "state": "Chhattisgarh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Uttar Dinajpur": {
-    "lat": 23.7014,
-    "lng": 87.684,
+    "lat": 25.891689,
+    "lng": 88.157621,
     "state": "West Bengal",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Uttara Kannada": {
-    "lat": 14.6396,
-    "lng": 75.1523,
+    "lat": 14.795545,
+    "lng": 74.61823,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Uttarkashi": {
-    "lat": 30.8201,
-    "lng": 78.6872,
+    "lat": 30.972791,
+    "lng": 78.604483,
     "state": "Uttarakhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vadodara": {
-    "lat": 21.9725,
-    "lng": 71.115,
+    "lat": 22.241871,
+    "lng": 73.242964,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vaishali": {
-    "lat": 24.5579,
-    "lng": 85.341,
+    "lat": 25.761892,
+    "lng": 85.366611,
     "state": "Bihar",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Valsad": {
-    "lat": 21.4892,
-    "lng": 71.6676,
+    "lat": 20.425222,
+    "lng": 73.12079,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Varanasi": {
-    "lat": 27.2085,
-    "lng": 80.2946,
+    "lat": 25.393409,
+    "lng": 82.918722,
     "state": "Uttar Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vav-Tharad": {
-    "lat": 22.8869,
-    "lng": 71.8602,
+    "lat": 24.330536,
+    "lng": 71.620916,
     "state": "Gujarat",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vellore": {
-    "lat": 10.4044,
-    "lng": 78.8702,
+    "lat": 12.90342,
+    "lng": 78.947087,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vidisha": {
-    "lat": 23.0625,
-    "lng": 78.9989,
+    "lat": 23.893309,
+    "lng": 77.812654,
     "state": "Madhya Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vijayanagara": {
     "lat": 16.0751,
@@ -4344,46 +4344,46 @@
     "source": "approximate_state_offset"
   },
   "Vijayapura": {
-    "lat": 15.5711,
-    "lng": 76.0901,
+    "lat": 16.797503,
+    "lng": 75.946445,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vikarabad": {
-    "lat": 17.3402,
-    "lng": 79.7429,
+    "lat": 17.253036,
+    "lng": 77.743407,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Viluppuram": {
-    "lat": 10.8283,
-    "lng": 78.4292,
+    "lat": 12.120332,
+    "lng": 79.535762,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Virudhunagar": {
-    "lat": 11.1928,
-    "lng": 78.7838,
+    "lat": 9.498104,
+    "lng": 77.900331,
     "state": "Tamil Nadu",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Visakhapatnam": {
-    "lat": 16.3404,
-    "lng": 80.1162,
+    "lat": 17.891976,
+    "lng": 82.694558,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Vizianagaram": {
-    "lat": 15.3117,
-    "lng": 80.2953,
+    "lat": 18.467697,
+    "lng": 83.377282,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Wanaparthy": {
-    "lat": 18.2411,
-    "lng": 79.3982,
+    "lat": 16.287987,
+    "lng": 78.045945,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Warangal": {
     "lat": 17.8838,
@@ -4392,22 +4392,22 @@
     "source": "approximate_state_offset"
   },
   "Wardha": {
-    "lat": 19.0054,
-    "lng": 75.4691,
+    "lat": 20.798154,
+    "lng": 78.587835,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Washim": {
-    "lat": 19.5427,
-    "lng": 75.8543,
+    "lat": 20.234583,
+    "lng": 77.214467,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Wayanad": {
-    "lat": 10.0612,
-    "lng": 75.813,
+    "lat": 11.707661,
+    "lng": 76.101288,
     "state": "Kerala",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West": {
     "lat": 29.4223,
@@ -4416,93 +4416,93 @@
     "source": "approximate_state_offset"
   },
   "West Garo Hills": {
-    "lat": 24.6858,
-    "lng": 91.8603,
+    "lat": 25.647229,
+    "lng": 90.197803,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Godavari": {
-    "lat": 16.6716,
-    "lng": 79.2036,
+    "lat": 16.935394,
+    "lng": 81.380515,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Jaintia Hills": {
-    "lat": 25.6668,
-    "lng": 92.2374,
+    "lat": 25.488509,
+    "lng": 92.284903,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Kameng": {
-    "lat": 29.1117,
-    "lng": 95.2111,
+    "lat": 27.295374,
+    "lng": 92.388737,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Karbi Anglong": {
-    "lat": 25.7281,
-    "lng": 93.5316,
+    "lat": 25.850419,
+    "lng": 92.531341,
     "state": "Assam",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Khasi Hills": {
-    "lat": 26.3427,
-    "lng": 91.5246,
+    "lat": 25.604442,
+    "lng": 91.257067,
     "state": "Meghalaya",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Siang": {
-    "lat": 27.3423,
-    "lng": 95.5882,
+    "lat": 28.157959,
+    "lng": 94.624061,
     "state": "Arunachal Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Singhbhum": {
-    "lat": 23.9549,
-    "lng": 85.153,
+    "lat": 22.422931,
+    "lng": 85.520595,
     "state": "Jharkhand",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "West Tripura": {
-    "lat": 23.1263,
-    "lng": 91.4527,
+    "lat": 23.879339,
+    "lng": 91.39665,
     "state": "Tripura",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Wokha": {
-    "lat": 26.6615,
-    "lng": 94.9179,
+    "lat": 26.203754,
+    "lng": 94.201579,
     "state": "Nagaland",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Y.S.R. Kadapa": {
-    "lat": 16.4907,
-    "lng": 80.4924,
+    "lat": 14.467388,
+    "lng": 78.780907,
     "state": "Andhra Pradesh",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Yadadri Bhuvanagiri": {
-    "lat": 18.1979,
-    "lng": 79.0382,
+    "lat": 17.453657,
+    "lng": 78.982019,
     "state": "Telangana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Yadgir": {
-    "lat": 15.2075,
-    "lng": 75.0038,
+    "lat": 16.625597,
+    "lng": 76.912378,
     "state": "Karnataka",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Yamunanagar": {
-    "lat": 29.5169,
-    "lng": 76.964,
+    "lat": 30.235363,
+    "lng": 77.303508,
     "state": "Haryana",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   },
   "Yavatmal": {
-    "lat": 19.459,
-    "lng": 75.4997,
+    "lat": 20.085162,
+    "lng": 78.162466,
     "state": "Maharashtra",
-    "source": "approximate_state_offset"
+    "source": "real_boundary_centroid"
   }
 }

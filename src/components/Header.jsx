@@ -35,7 +35,7 @@ export default function Header({
     {
       id: "ministry",
       title: "Ministry (MoSPI)",
-      subtitle: "National Sentinel",
+      subtitle: "National Monitoring",
       icon: Landmark
     }
   ];
@@ -62,7 +62,7 @@ export default function Header({
           </div>
 
           <div className="flex items-center gap-2 text-slate-400 font-medium">
-            <span>eSAKSHI Unified Sentinel System • Secure Audit Node</span>
+            <span>FUND·IQ • eSAKSHI Data Sync</span>
           </div>
         </div>
       </div>
@@ -82,7 +82,7 @@ export default function Header({
               <div>
                 <div className="flex items-center gap-2">
                   <h1 className="text-lg font-black tracking-tight text-slate-900 m-0">
-                    MPLADS <span className="text-indigo-700">AI SENTINEL</span>
+                    FUND<span className="text-indigo-700">·IQ</span>
                   </h1>
                 </div>
                 <p className="text-xs text-slate-500 m-0 font-medium">

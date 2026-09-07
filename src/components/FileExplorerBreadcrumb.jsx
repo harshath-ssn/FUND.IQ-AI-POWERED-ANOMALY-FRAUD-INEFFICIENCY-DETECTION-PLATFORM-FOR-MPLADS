@@ -1,12 +1,23 @@
-import React from 'react';
-import { ChevronRight, Home, Folder, FileText, User, MapPin, Building2, Landmark, LogOut } from 'lucide-react';
+import React, { useState } from 'react';
+import { ChevronRight, Home, Folder, FileText, User, MapPin, Building2, Landmark, LogOut, Volume2, VolumeX } from 'lucide-react';
+import { useTranslation, SUPPORTED_LANGUAGES } from '../i18n';
+import { isSoundMuted, setSoundMuted } from '../utils/sound';
 
-export default function FileExplorerBreadcrumb({ 
-  user, 
-  breadcrumbs = [], 
-  onBreadcrumbClick, 
-  onLogout 
+export default function FileExplorerBreadcrumb({
+  user,
+  breadcrumbs = [],
+  onBreadcrumbClick,
+  onLogout
 }) {
+  const { t, language, setLanguage } = useTranslation();
+  const [muted, setMuted] = useState(() => isSoundMuted());
+
+  const toggleMute = () => {
+    const next = !muted;
+    setMuted(next);
+    setSoundMuted(next);
+  };
+
   return (
     <div className="w-full bg-white border-b border-slate-200 px-4 py-1.5 flex items-center justify-between text-xs text-slate-600 shadow-2xs">
       <div className="flex items-center gap-1 overflow-x-auto py-0.5 no-scrollbar flex-1 mr-2">
@@ -15,7 +26,7 @@ export default function FileExplorerBreadcrumb({
           className="flex items-center gap-1.5 px-2 py-1 rounded hover:bg-slate-100 text-slate-700 font-semibold transition-colors cursor-pointer shrink-0"
         >
           <Home className="w-3.5 h-3.5 text-indigo-700" />
-          <span>MPLADS</span>
+          <span>FUND·IQ</span>
         </button>
 
         {breadcrumbs.map((item, idx) => {
@@ -44,6 +55,28 @@ export default function FileExplorerBreadcrumb({
       </div>
 
       <div className="flex items-center gap-2 shrink-0">
+        <div className="hidden md:flex items-center gap-0.5 bg-slate-50 border border-slate-200 rounded-full p-0.5">
+          {SUPPORTED_LANGUAGES.map((lang) => (
+            <button
+              key={lang.code}
+              onClick={() => setLanguage(lang.code)}
+              className={`px-2 py-0.5 rounded-full text-[10px] font-bold cursor-pointer transition-colors ${
+                language === lang.code ? 'bg-indigo-950 text-amber-400' : 'text-slate-500 hover:text-slate-800'
+              }`}
+            >
+              {lang.label}
+            </button>
+          ))}
+        </div>
+
+        <button
+          onClick={toggleMute}
+          title={muted ? t('login.unmuteSound') : t('login.muteSound')}
+          className="p-1.5 rounded-full hover:bg-slate-100 text-slate-500 cursor-pointer"
+        >
+          {muted ? <VolumeX className="w-3.5 h-3.5 text-rose-500" /> : <Volume2 className="w-3.5 h-3.5 text-emerald-600" />}
+        </button>
+
         <div className="hidden sm:flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-slate-100 border border-slate-200 text-[11px] text-slate-700">
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
           <span className="font-semibold">{user?.name}</span>
@@ -52,11 +85,11 @@ export default function FileExplorerBreadcrumb({
 
         <button
           onClick={onLogout}
-          title="Sign out of current session"
+          title={t('nav.logout')}
           className="flex items-center gap-1 px-2 py-1 rounded text-xs font-semibold text-rose-600 hover:bg-rose-50 hover:text-rose-700 transition-colors cursor-pointer border border-transparent hover:border-rose-200"
         >
           <LogOut className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">Logout</span>
+          <span className="hidden sm:inline">{t('nav.logout')}</span>
         </button>
       </div>
     </div>
